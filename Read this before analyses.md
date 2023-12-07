@@ -33,7 +33,7 @@ It is essential to know the basic rules applied for coding of data before analyz
 Variables corresponding to questions where only one answer is intended (index variables) are coded ‘0’ if more than one answer is given. However, some index variables are given valid codes for combinations of two or more ticks. 
 
 ### Data based on free text
-Occupational information from questionnaire 1 is coded for approximately 70 % of the participants. Occupational data is mainly available on an aggregate level (See wiki page [Coding of occupation](Coding-of-occupation-and-industry.md)). All medicines stated in questionnaires during pregnancy and up until the child is 7 years have been coded using the ATC classification system (See wiki page [Coding of medication](Coding%20of%20medication%20(ATC-codes).md)). Data for diseases and other text fields are not coded and are not included in the data sets.
+Occupational information from questionnaire 1 is coded for approximately 70 % of the participants. Occupational data is mainly available on an aggregate level (See wiki page [Coding of occupation](Coding-of-occupation-and-industry)). All medicines stated in questionnaires during pregnancy and up until the child is 7 years have been coded using the ATC classification system (See wiki page [Coding of medication](Coding%20of%20medication%20(ATC-codes))). Data for diseases and other text fields are not coded and are not included in the data sets.
 
 # Data quality
 ### Questionnaire on paper
