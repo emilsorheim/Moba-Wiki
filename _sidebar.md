@@ -1,4 +1,4 @@
-* [[Main Page]]
+* [[Home]]
 * [[About]]
 
 #### Documentation
