@@ -1,5 +1,3 @@
-# Weight change during pregnancy
-
 #### Table of Contents
 - _[1. Weight gain in pregnancy](#weight-gain-in-pregnancy)_
     - _[1.1 Code in Stata](#1---code-in-stata)_
