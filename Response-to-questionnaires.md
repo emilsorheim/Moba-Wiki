@@ -1,5 +1,3 @@
-# Response to questionnaires
-
 #### Table of Contents
 - _[1. Select the first pregnancy for each woman](#select-the-first-pregnancy-for-each-woman)_ <br>
 	- _[1.1 Code in SPSS](#s1---code-in-spss)_ <br>
