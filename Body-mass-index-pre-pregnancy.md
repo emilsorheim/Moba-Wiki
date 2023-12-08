@@ -1,5 +1,3 @@
-# Body mass index pre-pregnancy
-
 #### Table of Contents
 - _[1. Code in Stata](#code-in-stata)_ <br>
 
