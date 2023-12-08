@@ -1,4 +1,4 @@
-# Read this before analyses
+<!-- # Read this before analyses -->
 #### Please read the following important information regarding data from the Norwegian Mother, Father and Child Cohort Study (MoBa) before analyzing the data.
 
 #### Table of Contents
