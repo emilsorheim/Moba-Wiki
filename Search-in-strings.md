@@ -1,5 +1,3 @@
-# Search in strings
-
 #### Table of Contents
 - _[1. Code in SPSS](#code-in-spss)_ <br>
 - _[2. Code in Stata](#code-in-stata)_ <br>
