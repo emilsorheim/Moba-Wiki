@@ -1,5 +1,3 @@
-# Caffeinated beverages in pregnancy
-
 #### Table of Contents
 - _[1. Number of cups and caffeine in mg](#number-of-cups-and-caffeine-in-mg)_ <br>
   - _[1.1. Code in Stata](#code-in-stata)_ <br>
