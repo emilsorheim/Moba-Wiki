@@ -1,5 +1,3 @@
-# Arthritis in pregnancy
-
 #### Table of Contents
 - _[1. Code in Stata](#code-in-stata)_ 
   
