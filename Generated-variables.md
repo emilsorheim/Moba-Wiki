@@ -1,5 +1,3 @@
-# Generated variables
-
 #### Table of Contents
 - _[1. Q1, Questionnaire 1 (around week 17 of pregnancy)](#q1-questionnaire-1-around-week-17-of-pregnancy)_
 - _[2. QF, Father's questionnaire (around week 17 of pregnancy)](#qf-fathers-questionnaire-around-week-17-of-pregnancy)_
