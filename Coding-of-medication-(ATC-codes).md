@@ -1,5 +1,3 @@
-# Coding of medication (ATC-codes)
-
 #### Table of Contents
 - _[1. Coding of medications from open ended text fields](#coding-of-medications-from-open-ended-text-fields)_ <br>
 
