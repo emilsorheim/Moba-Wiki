@@ -1,6 +1,7 @@
 * [[Home]]
 * [[About]]
 * [[FAQ]]
+* [[Contact]]
 ### Documentation
 * [[Read this before analyses]]
 * [[Questionnaires]]
