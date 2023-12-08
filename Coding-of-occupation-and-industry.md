@@ -1,5 +1,3 @@
-# Coding of occupation and industry
-
 #### Table of Contents
 - _[1. Coding of mother's and father's industry](#coding-of-mothers-and-fathers-industry)_ <br>
 - _[2. Coding of mother's and father's occupation](#coding-of-mothers-and-fathers-occupation)_ <br>
