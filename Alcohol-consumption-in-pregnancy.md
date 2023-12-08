@@ -1,5 +1,3 @@
-# Alcohol consumption in pregnancy
-
 #### Table of Contents
 - _[1. Alcohol consumption before and during pregnancy](#alcohol-consumption-before-and-during-pregnancy)_
     - _[1.1 Code in Stata](#1---code-in-stata)_
