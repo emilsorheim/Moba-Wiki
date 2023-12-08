@@ -43,7 +43,7 @@ MoBa data have been through extensive quality control procedures. These are divi
 ### Digital Questionnaire
 Limits for valid values are incorporated in the digital questionnaires. I.e. for questions where only one answer is intended a radio button that only let the user select one option of a collection of options is used in the questionnaire. 
 # Use of data
-A guideline for use of MoBa data can be found on wiki page [User guides](User%20guides) (only available in Norwegian). Below, some important points are listed.
+<!-- A guideline for use of MoBa data can be found on wiki page [User guides](User%20guides) (only available in Norwegian). Below, some important points are listed. -->
 ## Generated variables
 Some questions are excluded from the data files for confidential and practical reasons. The information given in these questions is incorporated in generated variables. The most important generated variables are described in the sections below.
 ### Dates and age
