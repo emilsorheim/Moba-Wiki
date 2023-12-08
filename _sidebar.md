@@ -1,5 +1,5 @@
 * [[Home]]
-* [[About MoBa]]
+* [[About]]
 * [[FAQ]]
 * [[Contact]]
 ### Documentation
