@@ -1,5 +1,3 @@
-# Merge files
-
 #### Table of Contents
 - _[1 Description of code](#description-of-code)_ <br>
 	- _[1.1 Code in SPSS](#code-in-spss)_ <br>
