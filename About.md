@@ -14,9 +14,9 @@ For more information about the cohort, please visit the MoBa website at the [Nor
 ## FAQ
 
 ### I have just received files from MoBa, where do I start?
-By reading [this very important information](Read%20this%20before%20analyses.md).
+By reading [this very important information](Read%20this%20before%20analyses).
 ### How do I merge files?
-Information and syntax on how to merge files from MoBa can be found [here](Merge%20files.md).
+Information and syntax on how to merge files from MoBa can be found [here](Merge%20files).
 ### Why are there duplicates in my files?
 There should not be any duplicates on any of the variables in any of the files. But the data files based on data after birth (data from questionnaire at 6 months, 18 months, 3 years, 5 years, 7 years, 8 years etc.) will include duplicates on pregnancy as one pregnancy may result in more than one child. Therefore, it is extremely important to remember to use both the unique identifier for the pregnancy, PREG_ID_XXX, and the variable BARN_NR to merge these files. PREG_ID_XXX and BARN_NR together should give a unique identifier for each observation in all files after birth.
 ### Why is there such a high percentage of missing values for some of the variables in my files?
@@ -28,7 +28,7 @@ This question was only included in version A of the questionnaire (see text in b
 3) For twins and triplets, the mother fills out one questionnaire for each child after birth (questionnaire 6 months, 18 months, 3 years, 5 years, 7 years and 8 years etc.). The mothers are told to fill in the section “About yourself” for the first child only. MoBa have not duplicated this information to the other sibling(s). Therefore these variables are usually missing for one of the twins or two of the triplets.
 
 ### How do I calculate response time for questionnaire on paper in MoBa?
-Each file includes variables for age of child (in days) when the questionnaire was sent out, filled out and returned. These variables are called ALDERUTSENDT_Sx, ALDERUTFYLT_Sx and ALDERRETUR_Sx, and can be used to calculate response time. Information and syntax on how to calculate response time in MoBa can be found [here](Response%20time.md).
+Each file includes variables for age of child (in days) when the questionnaire was sent out, filled out and returned. These variables are called ALDERUTSENDT_Sx, ALDERUTFYLT_Sx and ALDERRETUR_Sx, and can be used to calculate response time. Information and syntax on how to calculate response time in MoBa can be found [here](Response%20time).
 
 Note, for the questionnaires filled out before birth these variables corresponds to number of days before the child is born. When generating variables for response time for these questionnaires, the questionnaire has to be merged with the file from the Medical Birth Registry of Norway (MBRN) in order to get information on gestational age in days. 
 
