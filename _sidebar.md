@@ -1,6 +1,5 @@
 * [[Home]]
 * [[About]]
-
 ### Documentation
 * [[Read this before analyses]]
 * [[Questionnaires]]
@@ -11,22 +10,18 @@
 * [[Quality Control]]
 * [[MoBaGenetics]]
 * [[Phenotools]]
-
 ### MoBa Syntax Library
-
 #### Technical syntax
 * [[Merge files]]
 * [[Response time]]
 * [[Response to questionnaires]]
 * [[Search in strings]]
 * [[Select first pregnancy]]
-
 #### Syntax for creating variables
 * [[Body mass index pre-pregnancy]]
 * [[Hyperemesis]]
 * [[Parity]]
 * [[Weight change during pregnancy]]
-
 #### Syntax from MOBAND CP study
 * [[Alcohol consumption in pregnancy]]
 * [[Arthritis in pregnancy]]
@@ -41,7 +36,3 @@
 * [[Thyroid disorder in pregnancy]]
 * [[Urinary infection in pregnancy]]
 * [[Vaginal bleeding in pregnancy]]
-
-
-
-
