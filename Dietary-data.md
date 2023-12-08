@@ -1,5 +1,3 @@
-# Dietary data
-
 #### Table of Contents
 - _[1. Important considerations when working with data from food frequency questionnaires](#important-considerations-when-working-with-data-from-food-frequency-questionnaires)_
 - _[2. Dietary questionnaire in pregancy (Q2)](#dietary-questionnaire-in-pregancy-q2)_
