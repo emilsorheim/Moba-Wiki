@@ -2,7 +2,7 @@
 * [[About]]
 
 #### Documentation
-* [[Please Read this before analyses]]
+* [[Read this before analyses]]
 * [[Questionnaires]]
 * [[Generated variables]]
 * [[Dietary Data]]
