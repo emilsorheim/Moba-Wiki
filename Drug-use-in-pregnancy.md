@@ -1,5 +1,3 @@
-# Drug use in pregnancy
-
 #### Table of Contents
 - _[1. Illicit drug use](#illicit-drug-use)_ <br>
  	- _[1.1 Code in Stata](#1---code-in-stata)_ <br>
