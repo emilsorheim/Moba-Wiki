@@ -10,7 +10,7 @@
 * [[Coding of medication (ATC-codes)]]
 * [[Coding of occupation and industry]]
 * [[Quality Control]]
-* [[MoBaGenetics]]
+* [[Genetic in Moba]]
 * [[Phenotools]]
 ### MoBa Syntax Library
 #### Technical syntax
