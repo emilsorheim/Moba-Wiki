@@ -162,8 +162,10 @@ The questionnaire for youths in MoBa is less comprehensive than the questionnair
 <a id="6">[15]</a> Duarte-Salles et al. Environ Health Perspect. 2013;121(3):374–379. https://pubmed.ncbi.nlm.nih.gov/23204292/ (Exposure to Acrylamide) <br>
 <a id="6">[16]</a> Kadawathagedara et al. Environ Int. 2018;113:325–334. https://pubmed.ncbi.nlm.nih.gov/29398013/ (Exposure to Acrylamide) <br>
 
-### Calculated coffein exposure
-<a id="6">[17]</a> Sengpiel V, Elind E, Bacelis J, Nilsson S, Grove J, Myhre R, et al. Maternal caffeine intake during pregnancy is associated with birth weight but not with gestational length: results from a large prospective observational cohort study. BMC Med. 2013;11:42; https://pubmed.ncbi.nlm.nih.gov/23421532/  <br>
+### Calculated caffeine exposure
+<a id="6">[17]</a> Sengpiel V, Elind E, Bacelis J, Nilsson S, Grove J, Myhre R, et al. Maternal caffeine intake dur
+### Calculated caffeine exposure
+<a id="6">[17]</a> Sengpiel V, Elind E, ing pregnancy is associated with birth weight but not with gestational length: results from a large prospective observational cohort study. BMC Med. 2013;11:42; https://pubmed.ncbi.nlm.nih.gov/23421532/  <br>
 <a id="6">[18]</a> Papadopoulou E, Botton J, Brantsaeter AL, Haugen M, Alexander J, Meltzer HM, et al. Maternal caffeine intake during pregnancy and childhood growth and overweight: results from a large Norwegian prospective observational cohort study. BMJ Open. 2018;8(3):e018895; https://pubmed.ncbi.nlm.nih.gov/29685923/ <br>
 <a id="6">[19]</a> Tollanes MC, Strandberg-Larsen K, Eichelberger KY, Moster D, Lie RT, Brantsaeter AL, et al. Intake of Caffeinated Soft Drinks before and during Pregnancy, but Not Total Caffeine Intake, Is Associated with Increased Cerebral Palsy Risk in the Norwegian Mother and Child Cohort Study. J Nutr. 2016;146(9):1701-6 <br>
 <a id="6">[20]</a> Modzelewska D, Bellocco R, Elfvin A, Brantsaeter AL, Meltzer HM, Jacobsson B, et al. Caffeine exposure during pregnancy, small for gestational age birth and neonatal outcome - results from the Norwegian Mother and Child Cohort Study. BMC Pregnancy Childbirth. 2019;19(1):80 <br>
