@@ -4,7 +4,7 @@
    - _[2.1 Nutrient intakes calculated from food](#2---nutrient-intakes-calculated-from-food)_
    - _[2.2 Caffeine calculation from food](#caffeine-calculation-from-food)_
 - _[3. Dietary questionnaire to youths (Q-youth diet)](#dietary-questionnaire-to-youths-q-youth-diet)_
-   - _[3.1 Nutrient intakes calculatied from food](#3---nutrient-intakes-calculatied-from-food)_
+   - _[3.1 Nutrient intakes calculated from food](#3---nutrient-intakes-calculated-from-food)_
 - _[4. Important papers](#important-papers)_
 
 #### Important considerations when working with data from food frequency questionnaires**
@@ -128,7 +128,7 @@ _Table 1 Summary caffeine groups_
 
 
 # Dietary questionnaire to youths (Q-youth diet) 
-## 3 - Nutrient intakes calculatied from food
+## 3 - Nutrient intakes calculated from food
 ### Assessment of cut-off values 
 As most nutrients correlate strongly with total energy intake, the most common approach for excluding individuals with improbable dietary reports is to use cut-off values for biological plausibility of the calculated energy intake.  
 
