@@ -1,7 +1,7 @@
 #### Table of Contents
 - _[1. Important considerations when working with data from food frequency questionnaires](#important-considerations-when-working-with-data-from-food-frequency-questionnaires)_
 - _[2. Dietary questionnaire in pregnancy (Q2)](#dietary-questionnaire-in-pregnancy-q2)_
-   - _[2.1 Nutrient intakes calculatied from food](#2---nutrient-intakes-calculatied-from-food)_
+   - _[2.1 Nutrient intakes calculated from food](#2---nutrient-intakes-calculated-from-food)_
    - _[2.2 Caffeine calculation from food](#caffeine-calculation-from-food)_
 - _[3. Dietary questionnaire to youths (Q-youth diet)](#dietary-questionnaire-to-youths-q-youth-diet)_
    - _[3.1 Nutrient intakes calculatied from food](#3---nutrient-intakes-calculatied-from-food)_
@@ -15,7 +15,7 @@ MoBa does not exclude any reports based on quality of reporting before deliverin
 
 # Dietary questionnaire in pregnancy (Q2) 
 
-## 2 - Nutrient intakes calculatied from food
+## 2 - Nutrient intakes calculated from food
 
 ### Assessment of cut-off values 
 As most nutrients correlate strongly with total energy intake, the most common approach for excluding individuals with improbable dietary reports is to use cut-off values for biological plausibility of the calculated energy intake.  
