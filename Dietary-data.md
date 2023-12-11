@@ -149,7 +149,7 @@ The questionnaire for youths in MoBa is less comprehensive than the questionnair
 <a id="3">[6]</a> _Brantsaeter AL, Haugen M, Hagve TA, Aksnes L, Rasmussen SE, Julshamn K, et al. Self-Reported Dietary Supplement Use Is Confirmed by Biological Markers in the Norwegian Mother and Child Cohort Study (MoBa). Ann Nutr Metab 2007;51(2):146-54_ <br>
 <a id="6">[7]</a> _Brantsaeter AL, Haugen M, Thomassen Y, Ellingsen DG, Ydersbond TA, Hagve TA, et al. Exploration of biomarkers for total fish intake in pregnant Norwegian women. Public Health Nutr 2010;13(1):54-62_ <br>
 <a id="6">[8]</a> Haugen M, Brantsaeter AL, Alexander J, Meltzer HM. Dietary Supplements Contribute Substantially to the Total Nutrient Intake in Pregnant Norwegian Women. AnnNutrMetab. 2008;52(4):272-80; https://www.ncbi.nlm.nih.gov/pubmed/18645244 <br>
-<a id="6">[9]</a> Nilsen et al. AJCN 2006 https://www.ncbi.nlm.nih.gov/pubmed/17093167(folic acid) <br>
+<a id="6">[9]</a> Nilsen et al. AJCN 2006 https://www.ncbi.nlm.nih.gov/pubmed/17093167 (folic acid) <br>
 
 ### Nutrient intakes calculated from foods and supplements reported in Food frequency questionnaire
 <a id="6">[10]</a> Brantsaeter et al. BMC PC 2017 https://pubmed.ncbi.nlm.nih.gov/28103845/ (Fatty acids from fish and from fish oil supplements) <br>
