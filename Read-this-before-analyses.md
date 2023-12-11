@@ -17,7 +17,7 @@
 # Description
 Most of the documentation at the MoBa Wiki web site is translated into English, although some documentation is only available in Norwegian.
 ## Versions of questionnaires
-There are more than one version of each questionnaire (A, B, C, ..). Many questions are identical across versions and the data is stored in the same variable. Where the questions differs significally between versions data is stored in separate variables. A few questions are version specific. In addition, there are both paper versions and a digital version (W) for the dietary (Q2), 3 year (Q6) and 7 year (Q7) questionnaire. An overview of all questionnaires can be found on the wiki page [Questionnaires](Questionnaires) and on fhi.no ([English versions](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/), [Norwegian versions](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/))
+There are more than one version of each questionnaire (A, B, C, ..). Many questions are identical across versions and the data is stored in the same variable. Where the questions differ significantly between versions data is stored in separate variables. A few questions are version specific. In addition, there are both paper versions and a digital version (W) for the dietary (Q2), 3 year (Q6) and 7 year (Q7) questionnaire. An overview of all questionnaires can be found on the wiki page [Questionnaires](Questionnaires) and on fhi.no ([English versions](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/), [Norwegian versions](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/))
 ## Variable names
 The variable names consist of two or more letters and a number. In questionnaire 1 (Q1) all variables (corresponding to questions) are named ‘AA’ followed by a number. In questionnaire 3 (Q3) all variables (corresponding to questions) are named ‘CC’ followed by a number.
 ## Variable labels
@@ -50,11 +50,11 @@ Some questions are excluded from the data files for confidential and practical r
 All date variables in the questionnaires are replaced by variables that correspond with the child’s age in days/months/years.  <br><br>
 The generated variable ‘ALDERUTFYLT_Sx’ contains information about when the questionnaire was filled out by the respondent, given by time in days/months/years from the date of birth of the child until filling out the questionnaire. This will correspond to the child’s age in days, months or years.  <br>
 #### Questionnaire on paper
-The variable ‘ALDERUTFYLT_Sx’ is calculated from ”Date for filling out the questionnaire” given by the respondant in the questionnaire.  <br><br>
+The variable ‘ALDERUTFYLT_Sx’ is calculated from ”Date for filling out the questionnaire” given by the respondent in the questionnaire.  <br><br>
 Note that for the first (Q1), second (Q2) and third (Q3) mother's questionnaire as well as the first father’s questionnaire (QF), the variable ‘ALDERUTFYLT_Sx’ corresponds to the number of days before the child is born. <br><br>
 Also note that we have observed some evident errors in the variable ”Date for filling out the questionnaire”. Some respondents have written their own date of birth, their child’s date of birth or other dates that are not valid. This results in errors in the generated variable ‘ALDERUTFYLT_Sx’. To control for these errors, we have added two generated variables to the dataset; ‘ALDERUTSENDT_Sx’ and ‘ALDERRETUR_Sx’. These variables are calculated in the same way as ‘ALDERUTFYLT_Sx’, but utilize the date the questionnaire was sent and the date we received it. These variables may be used for estimation of the child’s age when ‘ALDERUTFYLT_Sx’ is missing or implausible. 
 #### Digital Questionnaire
-The variable ‘ALDERUTFYLT_Sx’ is calculated from the date when the questionnaire was submitted online by the respondant.
+The variable ‘ALDERUTFYLT_Sx’ is calculated from the date when the questionnaire was submitted online by the respondent.
 
 ### Number of responses
 #### Only applies to Questionnaires on paper
