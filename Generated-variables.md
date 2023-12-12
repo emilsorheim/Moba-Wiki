@@ -123,14 +123,14 @@
 | ALDERUTFYLT_KOST| Days | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
 
 ### Q14Y, Questionnaire 14 years 
-#### Questionaire for mother
+#### Questionnaire for mother
 | Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
 | -- | -- | -- | -- | -- | -- |
 | AGE_YRS_UM | Years | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
 | AGE_MTHS_UM | Months | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
 | ALDERUTFYLT_UM| Days | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
 
-#### Questionaire for youth
+#### Questionnaire for youth
 | Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
 | -- | -- | -- | -- | -- | -- |
 | AGE_YRS_UB | Years | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
@@ -169,13 +169,13 @@
 | ALDERUTFYLT_VE | Days | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
 
 ### Questionnaire to parents aged 45 and over
-#### Questionaire for mothers 45+
+#### Questionnaire for mothers 45+
 | Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
 | -- | -- | -- | -- | -- | -- |
 | AGE_YRS_LM | Years | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Mother’s date of birth) | Mother’s age when the questionnaire was completed online. |
 | AGE_MTHS_LM | Months | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Mother’s date of birth) | Mother’s age when the questionnaire was completed online. |
 
-#### Questionaire for fathers 45+
+#### Questionnaire for fathers 45+
 | Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
 | -- | -- | -- | -- | -- | -- |
 | AGE_YRS_LF | Years | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Father’s date of birth) | Father’s age when the questionnaire was completed online. |
