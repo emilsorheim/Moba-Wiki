@@ -64,7 +64,7 @@ A category of variables has been generated, providing the total number of respon
 Note that data from the first two versions (A and B) of the diet questionnaire, are given in separate files only by request, since they are not comparable to the questionnaires C, D and W.
 ## Merging data files
 Considering the large amount of data, each questionnaire is delivered as separate data files. When merging the files for analysis, it is important to be aware of the following
-* **Data files based on data before birth** *(questionnaire at week 15-17 of pregnancy (Q1, QF), Week 22 of pregnancy (Q2), Week 30 of pregnancy(Q3))*: Include a unique identifier for pregnancy called ‘PREG_ID_XX’. This variable must be used as the key variable when merging files.
+* **Data files based on data before birth** *(questionnaire at week 15-17 of pregnancy (Q1, QF), Week 22 of pregnancy (Q2), Week 30 of pregnancy(Q3))*: Include an unique identifier for pregnancy called ‘PREG_ID_XX’. This variable must be used as the key variable when merging files.
 * **Data files based on data after birth** *(questionnaire at 6 months (Q4), 18 months (Q5), 3 years (Q6), 5 years (Q5Y), 7 years (Q7Y) etc.)*: Include a identifier for pregnancy (‘PREG_ID_XX’) and a identifier for the child (‘BARN_NR’). Both variables ‘PREG_ID_XX’ and ‘BARN_NR’ must be used when merging files based on data after birth to ensure that data is linked correctly for twins/triplets.
 * **For the second Father questionnaire** *(QF2)*:
   * _**Data file based on data from Part 1 (about the father)**_ include a unique identifier for the father called ‘F_ID_XX’. This variable must be used as the key variable when merging files.
