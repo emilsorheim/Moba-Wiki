@@ -56,7 +56,7 @@ supplement (see the list below). <br>
  | E000035 | Disease/ symptoms (own information) | 
  | E000036 | Unknown medication | 
  | E000037 | Non-medicinal treatment (e.g. ice, warm shower, belt etc.) | 
- | E000038 | Pre term labour medicine (before birth) | 
+ | E000038 | Preterm labour medicine (before birth) | 
 
 
 
