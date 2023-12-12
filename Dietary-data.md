@@ -83,7 +83,7 @@ _Table 1 Summary caffeine groups_
  <tbody>
     <tr>
       <td rowspan=4>5</td>
-      <td rowspan=4>Coffee (filtered, percolatedpressed, powdered instant and espresso) </td>
+      <td rowspan=4>Coffee (filtered, percolated pressed, powdered instant and espresso) </td>
       <td>Q_11_30</td>
       <td>BB265, BB266, BB267</td>
       <td>56,67</td>
