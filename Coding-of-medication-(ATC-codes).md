@@ -7,11 +7,8 @@ All medicines stated in questionnaires during pregnancy and up until the child i
 
 **Example:** <br>
 Variable AA1627_K contains coded data for medications given in question 39.18 in 
-questionnaire 1 with label desription _(AA1627_K: S_3918_3_K:Questionnaire 1C; (S_3918_3_K:Questonnaire1B); 
-(S_4023_3_K:Questionnaire 1A); Anemia/low haemoglobin, Name of medicine; 3. Do you 
-have or have you had any of the following illnesses or health problems? If you have taken 
-medication (tablets, mixtures, supporsitories, inhelers, creams etc.) in conjunction with the 
-illness or health problem give the name(s) of the medication(s) and when you took them)._ 
+questionnaire 1 with label description _(AA1627_K: S_3918_3_K:Questionnaire 1C; (S_3918_3_K:Questonnaire1B); 
+(S_4023_3_K:Questionnaire 1A); Anaemia/low haemoglobin, Name of medicines; 3. Do you have or have you had any of the following illnesses or health problems? If you have taken medication (tablets, mixtures, suppositories, inhalers, creams etc.) in conjunction with the illness or health problem give the name(s) of the medication(s) and when you took them)._ 
 
 The contents of this variable can for example be “B03BB01-E000009-“, 
 meaning the women has specified a medicine with ATC-code “B03BB01” and an iron 
