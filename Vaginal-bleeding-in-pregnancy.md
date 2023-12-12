@@ -4,7 +4,7 @@
 ## Code in Stata
 This code was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as partial. Information about pregnancy week of vaginal bleeding and assumed reason for bleeding can be extracted from MoBa, but is not included in the code below (information on pregnancy week can be extracted by using information about the date of the last menstrual bleeding and the date of vaginal bleeding in Q1, and pregnancy weeks for vaginal bleeding given in Q3). Note that assumed reason for vaginal bleeding is missing for a substantial number of mothers in MoBa.
 
-Information on vagnial bleeding in pregnancy is also available in the Medical Birth Registry (MBR).
+Information on vaginal bleeding in pregnancy is also available in the Medical Birth Registry (MBR).
 
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 
