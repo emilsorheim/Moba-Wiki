@@ -192,7 +192,7 @@
 ## Other forms
 ### Questionnaires about influenza and vaccine for mother and child
 
-#### Questionnaire about the Mother
+#### Questionnaire about the mother
 | Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
 | -- | -- | -- | -- | -- | -- |
 | ALDERUTSENDT_SFLUM | Days | None | Date of birth, Dispatchment date | (Dispatchment date) – (Child’s date of birth) | Child's age when questionnaire was sent (given in number of days before birth). |
@@ -200,7 +200,7 @@
 | ALDERRETUR_SFLUM | Days | None | Date of birth, Date of registered return of questionnaire | (Date of registered return of questionnaire) – (Child’s date of birth) | Child's age when questionnaire was returned (given in number of days before birth). |
 | MOR_ALDERUTFYLT_SFLUM | Year | 0 | Date of birth, Date of registered return of questionnaire | (Date of filling out questionnaire/date of return of questionnaire) – (Mother’s date of birth) | Mother’s age when filling out questionnaire. |
 
-#### Questionnaire about the Child
+#### Questionnaire about the child
 | Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
 | -- | -- | -- | -- | -- | -- |
 | ALDERUTSENDT_SFLUC | Days | None | Date of birth, Dispatchment date | (Dispatchment date) – (Child’s date of birth) | Child's age when questionnaire was sent (given in number of days before birth). |
