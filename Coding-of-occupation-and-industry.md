@@ -10,7 +10,7 @@ version (see https://www.ssb.no/en/klass/klassifikasjoner/6/versjon/31/koder).
 
 ## Coding of mother's and father's occupation
 The Norwegian version (STYRK98) of ISCO-88 -International Standard Classification of Occupations compiled by International Labour Office (ILO) 
-http://www2.warwick.ac.uk/fac/soc/ier/research/isco88 is used to code occupation. The standard have been adjusted to comply with Norwegian conditions. Statistics Norway is responsible for the 
+http://www2.warwick.ac.uk/fac/soc/ier/research/isco88 is used to code occupation. The standard has been adjusted to comply with Norwegian conditions. Statistics Norway is responsible for the 
 Norwegian version (see http://www.ssb.no/emner/06/01/nos_c521/nos_c521.pdf and http://www.ssb.no/emner/06/yrke). Two variables have been generated based on occupation code: M_OCCU and F_OCCU. 
 These consist of the first digit of the occupation code for the mother and the father.
 
