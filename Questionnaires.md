@@ -13,8 +13,8 @@
     - _[1.15. QF2, Father's questionnaire no. 2](#qf2-fathers-questionnaire-no-2)_
 
 ## Versions 
-There are several versions of each questionnaire. The original questionnaires can be found for all versions in the tables below. The tables also contains: 
-* An english translation of the questionnaire (column: English translation). Some questionnaires/versions are missing. 
+There are several versions of each questionnaire. The original questionnaires can be found for all versions in the tables below. The tables also contain: 
+* An English translation of the questionnaire (column: English translation). Some questionnaires/versions are missing. 
 * Questionnaires with variable name for all variables (column: Annotated). Some questionnaires/versions are missing. 
 * Questionnaires with short label (for example ”3_1”) for each variable (column: Variable labels). Some questionnaires/versions are missing.
 
