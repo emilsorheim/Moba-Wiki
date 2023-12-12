@@ -35,7 +35,7 @@
 | ALDERUTSENDT | Days | None | Date of birth, Dispatchment date | (Dispatchment date) – (Child’s date of birth) | Child's age when questionnaire was sent (given in number of days before birth). |
 | ALDERUTFYLT | Days | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child's age when questionnaire was completed (given in number of days before birth). |
 | ALDERRETUR | Days | None | Date of birth, Date of registered return of questionnaire | (Date of registered return of questionnaire) – (Child’s date of birth) | Child's age when questionnaire was returned (given in number of days before birth). |
-| FAR_ALDERUTFYLT | Year | 0 | Date of birth, Date of registered return of questionnaire | (Date of filling out questionnaire/date of return of questionnaire) – (Father’s date of birth) | Father’s age when filling out Father’s Questionnarie. |
+| FAR_ALDERUTFYLT | Year | 0 | Date of birth, Date of registered return of questionnaire | (Date of filling out questionnaire/date of return of questionnaire) – (Father’s date of birth) | Father’s age when filling out Father’s Questionnaire. |
 
 ### Q2, Questionnaire 2 (around week 22 of pregnancy) 
 | Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
@@ -187,7 +187,7 @@
 | ALDERUTSENDT | Days | None | Date of birth, Dispatchment date | (Dispatchment date) – (Child’s date of birth) | Child's age when questionnaire was sent. |
 | ALDERUTFYLT | Days | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child's age when questionnaire was completed. |
 | ALDERRETUR | Days | None | Date of birth, Date of registered return of questionnaire | (Date of registered return of questionnaire) – (Child’s date of birth) | Child's age when questionnaire was returned. |
-| FAR_ALDERUTFYLT | Year | 0 | Date of birth, Date of registered return of questionnaire | (Date of filling out questionnaire/date of return of questionnaire) – (Father’s date of birth) | Father’s age when filling out Father’s Questionnarie no. 2. |
+| FAR_ALDERUTFYLT | Year | 0 | Date of birth, Date of registered return of questionnaire | (Date of filling out questionnaire/date of return of questionnaire) – (Father’s date of birth) | Father’s age when filling out Father’s Questionnaire no. 2. |
 
 ## Other forms
 ### Questionnaires about influenza and vaccine for mother and child
