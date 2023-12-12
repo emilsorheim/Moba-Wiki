@@ -4,7 +4,7 @@
 
 ## Code in Stata
 This code was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as partial due to difference in format of questions in MoBa and the DNBC, but no information from MoBa was considered lost when harmonizing the data.
-Information about fever in the last part of pregnancy (after pregnancy week 30) is available in the fourth qustionnaire in MoBa. Information about use of medication is also available in the first and third questionnaire in MoBa.
+Information about fever in the last part of pregnancy (after pregnancy week 30) is available in the fourth questionnaire in MoBa. Information about use of medication is also available in the first and third questionnaire in MoBa.
 
 ## Description of code
 Respondents who have indicated a fever episode either in the first questionnaire (Q1) or in the third questionnaire (Q3) are coded 1 (Yes) for the variable fever. Respondents who have not reported a fever episode and have answered the first and third questionnaire are coded 0 (No). The substantial number of missing for the variable fever (based on the code below) is mostly due to respondents that have only answered the first questionnaire and not the third questionnaire.
