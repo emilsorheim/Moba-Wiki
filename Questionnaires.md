@@ -12,11 +12,12 @@
     - _[1.8. Q5Y, Questionnaire 5 years](#q5y-questionnaire-5-years)_
     - _[1.9. Q7Y, Questionnaire 7 years](#q7y-questionnaire-7-years)_
     - _[1.10. Q8Y, Questionnaire 8 years](#q8y-questionnaire-8-years)_
-    - _[1.15. QF2, Father's questionnaire no. 2](#qf2-fathers-questionnaire-no-2)_
-    - _[1.12. 18-Year Questionnaire](#18-year-questionnaire)_
-    - _[1.13. 19 år](#19-år)_
-    - _[1.14. 20-years Questionnaire](#20-years-questionnaire)_
-    - _[1.15. 45 år mor](#45-år-mor)_
+    - _[1.11. QF2, Father's questionnaire no. 2](#qf2-fathers-questionnaire-no-2)_
+    - _[1.12. Q-Youth Diet](#Q-Youth-Diet)_
+    - _[1.13. 18-Year Questionnaire](#18-year-questionnaire)_
+    - _[1.14. 19 år](#19-år)_
+    - _[1.15. 20-years Questionnaire](#20-years-questionnaire)_
+    - _[1.16. 45 år mor](#45-år-mor)_
     - _[1.16. 45 år far](#45-år-far)_
     - _[1.17. Women's Fertility Clinical Questionnaire](#womens-fertility-clinical-questionnaire)_
     - _[1.18. Women's Fertility Participation Questionnaire](#womens-fertility-participation-questionnaire)_
@@ -171,7 +172,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/s
 | A - Child | Far2_Om_Barnet.pdf | | | Far2_Om_Barnet.pdf | 12.2015 - 09.2016 | 34.910 |
 
 
-###Q-Youth diet
+### Q-Youth diet 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-youth-diet.pdf). 
 
 | Version | Original | Period of use | Number of responses in file  per 21.06.2022 |
@@ -191,7 +192,7 @@ See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f
 | B | -- | -- | 2308 |
 
  
-### 19 år
+### 19-years Questionnaire
 See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/id_19ar_versjonb_ny.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 09.03.2026 |
