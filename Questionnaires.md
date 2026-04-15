@@ -26,6 +26,7 @@
     - _[1.22. Helse og svangerskap](#helse-og-svangerskap)_
     - _[1.23. Memoro - Complex Reaction Time](#memoro---complex-reaction-time)_
     - _[1.24. Memoro - Digit Span Backward test](#memoro---digit-span-backward-test)_
+    - _[1.25. Memoro - Digit-Symbol Coding test](#memoro---matrix-test)_
     - _[1.25. Memoro - Matrix test](#memoro---matrix-test)_
     - _[1.26. Memoro - Object Location Memory](#memoro---object-location-memory)_
     - _[1.27. Questionnaire on Influenza and Vaccination - Child](#questionnaire-on-influenza-and-vaccination---child)_
@@ -36,6 +37,7 @@ There are several versions of each questionnaire. The original questionnaires ca
 * An english translation of the questionnaire (column: English translation). Some questionnaires/versions are missing. 
 * Questionnaires with variable name for all variables (column: Annotated). Some questionnaires/versions are missing. 
 * Questionnaires with short label (for example ”3_1”) for each variable (column: Variable labels). Some questionnaires/versions are missing.
+
 
 ### QF, Father's questionnaire (around week 17 of pregnancy) 
 Distributed to mother in invitation package 3 weeks before Ultrasound appointment. See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-father.pdf) and `SKJEMA_FAR_endringer.pdf (only in Norwegian)` for a description of changes between Version B/C and D/E. 
@@ -48,6 +50,7 @@ Distributed to mother in invitation package 3 weeks before Ultrasound appointmen
  
  _*Only minor changes in question formulation_
 
+
 ### Q1, Questionnaire 1 (around week 17 of pregnancy) 
 Distributed to mother 3 weeks before Ultrasound appointment. See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q1.pdf) and `Q1_changes.pdf (in Norwegian:SKJEMA_1_endringer.pdf, Skjema1_Endringer_bilder.pdf)` for a description of changes between Versions. 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file per January 2019 |
@@ -58,6 +61,7 @@ Distributed to mother 3 weeks before Ultrasound appointment. See [Instrument d
 | 1E | [Skjema1E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1E.pdf) |  |  | [Skjema1E.pdf](PDF/MoBaQuestionnaires/withDef/1E_def.pdf) | 12.2006 - 01.2009 | 25.072 |
 
 _*Only minor changes in question formulation_
+
 
 ### Q2, Questionnaire 2 (around week 22 of pregnancy) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q2_2021.pdf) and SKJEMA_2_endringer.pdf (only in Norwegian) for a description of changes between Version B and C. 
@@ -70,6 +74,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | 2D | [Skjema2D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2D_Skjema2DBG.pdf) | | [Questionnaire2D.pdf](PDF/MoBaQuestionnaires/Annotated/Q2D_annotated_English.pdf) | | 08.2003 - 02.2009 | 63.912 |
 | 2 Web (identical to D) | | | | | 09.2006 - 02.2009 | 4.846 |
 
+
 ### Q3, Questionnaire 3 (around week 30 of pregnancy) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q3.pdf) and Q3_changes.pdf (in Norwegian:SKJEMA_3_endringer.pdf, SKJEMA_3_endringer_bilder.pdf) for a description of changes between Versions. 
 
@@ -81,6 +86,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | 3E | [Skjema3E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3E.pdf) | | | [Skjema3E.pdf](PDF/MoBaQuestionnaires/withDef/3E_def.pdf) | 01.2007 - 04.2009 | 25.872 |
 
 _*Only minor changes in question formulation_
+
 
 ### Q4, Questionnaire 4 (6 months) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q4.pdf) and Q4_changes.pdf (in Norwegian:SKJEMA_4_endringer.pdf, SKJEMA_4_endringer_bilder.pdf) for a description of changes between Versions. 
@@ -95,6 +101,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 _*Only minor changes in question formulation_
 
+
 ### Q5, Questionnaire 5 (18 months) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q5.pdf) and Q5_changes.pdf (in Norwegian:SKJEMA_5_endringer.pdf, SKJEMA_5_endringer_bilder.pdf) for a description of changes between Versions. 
 
@@ -105,6 +112,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | 5C | [Skjema5C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5C.pdf) | | | [Skjema5C.pdf](PDF/MoBaQuestionnaires/withDef/5C_def.pdf) | 03.2005 - 06.2007 | 23.635 |
 | 5D | [Skjema5D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/English/Q5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/Annotated/Q5D_annotated_English.pdf) | [Skjema5D.pdf](PDF/MoBaQuestionnaires/withDef/5D_def.pdf) | 06.2007 - 12.2008 | 17.395 |
 | 5E | [Skjema5E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5E.pdf) | | | [Skjema5E.pdf](PDF/MoBaQuestionnaires/withDef/5E_def.pdf) | 12.2008 -01.2011 | 17.359 |
+
 
 ### Q6, Questionnaire 6 (3 years) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q6.pdf) and Q6_changes.pdf (in Norwegian:SKJEMA_6_endringer.pdf, SKJEMA_6_endringer_bilder.pdf) for a description of changes between Versions. 
@@ -122,6 +130,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 _*A pilot study dividing questionnaire 6 into 3 parts and sent out as the child turned 2.5, 3 and 3.5 years. 6-2 was the questionnaire send out when the child was 3 years old._
 
+
 ### Q5Y, Questionnaire 5 years 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-5year.pdf) and Q5year_changes.pdf (in Norwegian: SKJEMA_5aar_endringer.pdf) for a description of changes between Versions. 
 
@@ -129,6 +138,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | -- | -- | -- | -- | -- | -- | -- | 
 | 5years A | [Skjema5aarA.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5aarA.pdf) | | | [Skjema5aarA.pdf](PDF/MoBaQuestionnaires/withDef/5aarA_def.pdf) | 02.2010 - 12.2011 | 14.871 |
 | 5years B | [Skjema5aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5aarB.pdf) | [Questionnaire5yB.pdf](PDF/MoBaQuestionnaires/English/Q5yB.pdf) | | [Skjema5aarB.pdf](PDF/MoBaQuestionnaires/withDef/5aarB_def.pdf) | 05.2011 - 07.2014 | 26.746 |
+
 
 ### Q7Y, Questionnaire 7 years 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-dokumentasjon-q_7y_2016.pdf) and Q7years_changes.pdf (in Norwegian: SKJEMA_7_endringer.pdf) for a description of changes between Versions. 
@@ -139,6 +149,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | 7years B | [Skjema7aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarB.pdf) | | | [Skjema7aarB.pdf](PDF/MoBaQuestionnaires/withDef/7aarB_def.pdf) | 10.2009 - 02.2010 | 4.783 |
 | 7years C | [Skjema7aarC.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarC.pdf) | [Questionnaire7yC.pdf](PDF/MoBaQuestionnaires/English/Q7yC.pdf) | | [Skjema7aarC.pdf](PDF/MoBaQuestionnaires/withDef/7aarC_def.pdf) | 04.2010 - 07.2016 | 47.270 |
 | 7years Web (identical to C) | | | | | 09.2010 - 10.2011 | 671 |
+
 
 ### Q8Y, Questionnaire 8 years 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-8year.pdf) and SKJEMA_8_endringer.pdf (only in Norwegian) for a description of changes between Versions. 
@@ -158,6 +169,8 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/s
 | -- | -- | -- | -- | -- | -- | -- | 
 | A - Father | Far2.pdf | | | Far2.pdf | 12.2015 - 09.2016 | 29.345 |
 | A - Child | Far2_Om_Barnet.pdf | | | Far2_Om_Barnet.pdf | 12.2015 - 09.2016 | 34.910 |
+
+
  ### 18-Year Questionnaire: 
 See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/instrument-documentation-18-year_.pdf). 
 
@@ -165,9 +178,10 @@ See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f
 | -- | -- | -- | -- | 
 | A | -- | -- | 4966|
 | B | -- | -- | 2308 |
+
  
 ### 19 år
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/id_19ar_versjonb_ny.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 09.03.2026 |
 | -- | -- | -- | -- |
@@ -175,16 +189,18 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 | B | -- | -- | 4241 |
 | C | -- | -- | 3665 |
 
+
 ### 20-years Questionnaire 
-See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/20-arsskjema.pdf). 
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/id_20ar_versjonab.pdf). 
 
 | Version | Original | Period of use | Number of responses in file per 08.01.2025 |
 | -- | -- | -- | -- | 
 | A | -- | -- | 957 |
 | B | -- | -- | 8337 |
 
+
 ### 45 år mor
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument_documentation_women_45years.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 19.05.2023 |
 | -- | -- | -- | -- |
@@ -192,8 +208,9 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 | BBM | -- | -- | 23286 |
 | BNN | -- | -- | 1869 |
 
+
 ### 45 år far
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/instrument_documentation_men_45years.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 19.05.2023 |
 | -- | -- | -- | -- |
@@ -201,8 +218,9 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 | BBM | -- | -- | 14694 |
 | BNN | -- | -- | 1076 |
 
+
 ### Women's Fertility Clinical Questionnaire
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/instrument-documentation_klinikkskjema_versjonerabc_.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 28.08.2025 |
 | -- | -- | -- | -- |
@@ -210,8 +228,9 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 | B | -- | -- | 244 |
 | C | -- | -- | 151 |
 
+
 ### Women's Fertility Participation Questionnaire
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/id_deltakerskjema_wf_versjonab.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 14.10.2024 |
 | -- | -- | -- | -- |
@@ -219,15 +238,17 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 | B | -- | -- | 218 |
 | C | -- | -- | 182 |
 
+
 ### Young women's health and fertility and Young men's health and fertility Participation Ques
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/ferdig_deltagerskjema_instrument-documentation.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 08.01.2026 |
 | -- | -- | -- | -- |
 | A | -- | -- | 898 |
 
+
 ### Young women's health and fertility Clinical form
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/id_ukf_klinikkskjema_v2a2b2c.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 22.12.2025 |
 | -- | -- | -- | -- |
@@ -236,8 +257,9 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 | C | -- | -- | 199 |
 | D | -- | -- | 43 |
 
+
 ### Young men's health and fertility Clinical form
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/id_umf_klinikkskjema_v2a2b2c_maat.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 18.12.2025 |
 | -- | -- | -- | -- |
@@ -245,8 +267,9 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 | B | -- | -- | 85 |
 | C | -- | -- | 238 |
 
+
 ### Helse og svangerskap
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/id_helse_og_svangerskap.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 05.11.2025 |
 | -- | -- | -- | -- |
@@ -256,14 +279,15 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 
 
 ### Memoro - Complex Reaction Time
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/info-til-forskere/malinstrument_moba_fhi_complexreactiontime.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 10.04.2026 |
 | -- | -- | -- | -- |
 | A | -- | -- | 39796 |
 
+
 ### Memoro - Digit Span Backward test
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/info-til-forskere/malinstrument_moba_fhi_digitspanbackwards.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 09.04.2026 |
 | -- | -- | -- | -- |
@@ -273,12 +297,22 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 | 8 | -- | -- | 24233 |
 | 9 | -- | -- | 13063 |
 
+
+### Memoro - Digit-Symbol Coding test
+See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/info-til-forskere/malinstrument_moba_fhi_digitsymbolcoding.pdf)
+
+| Version | Original | Period of use | Number of responses in file per 09.04.2026 |
+| -- | -- | -- | -- |
+| A | -- | -- | 39743 |
+
+
 ### Memoro - Matrix test
 See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
 
 | Version | Original | Period of use | Number of responses in file per 09.04.2026 |
 | -- | -- | -- | -- |
-| A | -- | -- | 39743 |
+| A | -- | -- | 37072 |
+
 
 ### Memoro - Object Location Memory
 See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
@@ -287,12 +321,15 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 | -- | -- | -- | -- |
 | A | -- | -- | 50740 |
 
+
+
 ### Questionnaire on Influenza and Vaccination - Child
 See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
 
 | Version | Original | Period of use | Number of responses in file per 29.03.2019 |
 | -- | -- | -- | -- |
 | A | -- | -- | 15041 |
+
 
 ### Questionnaire on Influenza and Vaccination - Mother
 See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
