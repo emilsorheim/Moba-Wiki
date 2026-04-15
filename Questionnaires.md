@@ -143,6 +143,14 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/s
 | A - Child | Far2_Om_Barnet.pdf | | | Far2_Om_Barnet.pdf | 12.2015 - 09.2016 | 34.910 |
  
 
+### 20-years Questionnaire 
+See [Instrument documentation]((https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/20-arsskjema.pdf)). 
+
+| Version | Original | Period of use | Number of responses in file per 08.01.2025 |
+| -- | -- | -- | -- | 
+| A | -- | -- | 957 |
+| B | -- | -- | 8337 |
+ 
 
 
  
