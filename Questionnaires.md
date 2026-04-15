@@ -13,6 +13,23 @@
     - _[1.9. Q7Y, Questionnaire 7 years](#q7y-questionnaire-7-years)_
     - _[1.10. Q8Y, Questionnaire 8 years](#q8y-questionnaire-8-years)_
     - _[1.15. QF2, Father's questionnaire no. 2](#qf2-fathers-questionnaire-no-2)_
+    - _[1.12. 18-Year Questionnaire](#18-year-questionnaire)_
+    - _[1.13. 19 år](#19-år)_
+    - _[1.14. 20-years Questionnaire](#20-years-questionnaire)_
+    - _[1.15. 45 år mor](#45-år-mor)_
+    - _[1.16. 45 år far](#45-år-far)_
+    - _[1.17. Women's Fertility Clinical Questionnaire](#womens-fertility-clinical-questionnaire)_
+    - _[1.18. Women's Fertility Participation Questionnaire](#womens-fertility-participation-questionnaire)_
+    - _[1.19. Young women's health and fertility and Young men's health and fertility Participation Ques](#young-womens-health-and-fertility-and-young-mens-health-and-fertility-participation-ques)_
+    - _[1.20. Young women's health and fertility Clinical form](#young-womens-health-and-fertility-clinical-form)_
+    - _[1.21. Young men's health and fertility Clinical form](#young-mens-health-and-fertility-clinical-form)_
+    - _[1.22. Helse og svangerskap](#helse-og-svangerskap)_
+    - _[1.23. Memoro - Complex Reaction Time](#memoro---complex-reaction-time)_
+    - _[1.24. Memoro - Digit Span Backward test](#memoro---digit-span-backward-test)_
+    - _[1.25. Memoro - Matrix test](#memoro---matrix-test)_
+    - _[1.26. Memoro - Object Location Memory](#memoro---object-location-memory)_
+    - _[1.27. Questionnaire on Influenza and Vaccination - Child](#questionnaire-on-influenza-and-vaccination---child)_
+    - _[1.28. Questionnaire on Influenza and Vaccination - Mother](#questionnaire-on-influenza-and-vaccination---mother)_
 
 ## Versions 
 There are several versions of each questionnaire. The original questionnaires can be found for all versions in the tables below. The tables also contains: 
