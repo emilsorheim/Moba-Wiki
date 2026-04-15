@@ -167,13 +167,68 @@ See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f
 | -- | -- | -- | -- | 
 | A | -- | -- | 957 |
 | B | -- | -- | 8337 |
- 
 
+### 45 år mor
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
 
+| Version | Original | Period of use | Number of responses in file per 19.05.2023 |
+| -- | -- | -- | -- |
+| A | -- | -- | 705 |
+| BBM | -- | -- | 23286 |
+| BNN | -- | -- | 1869 |
 
- 
+### 45 år far
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
 
- 
+| Version | Original | Period of use | Number of responses in file per 19.05.2023 |
+| -- | -- | -- | -- |
+| A | -- | -- | 519 |
+| BBM | -- | -- | 14694 |
+| BNN | -- | -- | 1076 |
+
+### Women's Fertility Clinical Questionnaire
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 28.08.2025 |
+| -- | -- | -- | -- |
+| A | -- | -- | 90 |
+| B | -- | -- | 244 |
+| C | -- | -- | 151 |
+
+### Women's Fertility Participation Questionnaire
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 14.10.2024 |
+| -- | -- | -- | -- |
+| A | -- | -- | 91 |
+| B | -- | -- | 218 |
+| C | -- | -- | 182 |
+
+### Young women's health and fertility and Young men's health and fertility Participation Ques
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 08.01.2026 |
+| -- | -- | -- | -- |
+| A | -- | -- | 898 |
+
+### Young women's health and fertility Clinical form
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 22.12.2025 |
+| -- | -- | -- | -- |
+| A | -- | -- | 107 |
+| B | -- | -- | 133 |
+| C | -- | -- | 199 |
+| D | -- | -- | 43 |
+
+### Young men's health and fertility Clinical form
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 18.12.2025 |
+| -- | -- | -- | -- |
+| A | -- | -- | 38 |
+| B | -- | -- | 85 |
+| C | -- | -- | 238 |
 
 
 
