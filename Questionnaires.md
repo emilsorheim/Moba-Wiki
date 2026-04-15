@@ -141,31 +141,29 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/s
 | -- | -- | -- | -- | -- | -- | -- | 
 | A - Father | Far2.pdf | | | Far2.pdf | 12.2015 - 09.2016 | 29.345 |
 | A - Child | Far2_Om_Barnet.pdf | | | Far2_Om_Barnet.pdf | 12.2015 - 09.2016 | 34.910 |
- 
-
-### 18-Year Questionnaire: 
+ ### 18-Year Questionnaire: 
 See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/instrument-documentation-18-year_.pdf). 
 
-| Version | Original | Period of use | Number of responses in file per 01.08.2023 |
+| Version | Original | Period of use | Number of responses in file per 01.08.2023 |
 | -- | -- | -- | -- | 
-| A | -- | -- | 4966|
+| A | -- | -- | 4966|
 | B | -- | -- | 2308 |
  
+### 19 år
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 09.03.2026 |
+| -- | -- | -- | -- |
+| A | -- | -- | 6408 |
+| B | -- | -- | 4241 |
+| C | -- | -- | 3665 |
+
 ### 20-years Questionnaire 
 See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/20-arsskjema.pdf). 
 
-| Version | Original | Period of use | Number of responses in file per 08.01.2025 |
+| Version | Original | Period of use | Number of responses in file per 08.01.2025 |
 | -- | -- | -- | -- | 
-| A | -- | -- | 957 |
-| B | -- | -- | 8337 |
- 
-
-### 20-years Questionnaire 
-See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/20-arsskjema.pdf). 
-
-| Version | Original | Period of use | Number of responses in file per 08.01.2025 |
-| -- | -- | -- | -- | 
-| A | -- | -- | 957 |
+| A | -- | -- | 957 |
 | B | -- | -- | 8337 |
 
 ### 45 år mor
@@ -230,8 +228,61 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 | B | -- | -- | 85 |
 | C | -- | -- | 238 |
 
+### Helse og svangerskap
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 05.11.2025 |
+| -- | -- | -- | -- |
+| 19_A | -- | -- | 7 |
+| 20_A | -- | -- | 54 |
+| UH_A | -- | -- | 48 |
 
 
+### Memoro - Complex Reaction Time
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 10.04.2026 |
+| -- | -- | -- | -- |
+| A | -- | -- | 39796 |
+
+### Memoro - Digit Span Backward test
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 09.04.2026 |
+| -- | -- | -- | -- |
+| 1 | -- | -- | 8181 |
+| 2 | -- | -- | 141 |
+| 6 | -- | -- | 5 |
+| 8 | -- | -- | 24233 |
+| 9 | -- | -- | 13063 |
+
+### Memoro - Matrix test
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 09.04.2026 |
+| -- | -- | -- | -- |
+| A | -- | -- | 39743 |
+
+### Memoro - Object Location Memory
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 09.04.2026 |
+| -- | -- | -- | -- |
+| A | -- | -- | 50740 |
+
+### Questionnaire on Influenza and Vaccination - Child
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 29.03.2019 |
+| -- | -- | -- | -- |
+| A | -- | -- | 15041 |
+
+### Questionnaire on Influenza and Vaccination - Mother
+See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+
+| Version | Original | Period of use | Number of responses in file per 29.03.2019 |
+| -- | -- | -- | -- |
+| A | -- | -- | 12287 |
 
 
 
