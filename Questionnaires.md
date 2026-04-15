@@ -144,7 +144,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/s
  
 
 ### 20-years Questionnaire 
-See [Instrument documentation]((https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/20-arsskjema.pdf)). 
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/20-arsskjema.pdf). 
 
 | Version | Original | Period of use | Number of responses in file per 08.01.2025 |
 | -- | -- | -- | -- | 
