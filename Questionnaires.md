@@ -307,7 +307,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/s
 
 
 ### Memoro - Matrix test
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/info-til-forskere/malinstrument_moba_fhi_matrix.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 09.04.2026 |
 | -- | -- | -- | -- |
@@ -315,7 +315,7 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 
 
 ### Memoro - Object Location Memory
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/info-til-forskere/malinstrument_moba_fhi_objloc.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 09.04.2026 |
 | -- | -- | -- | -- |
@@ -324,7 +324,7 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 
 
 ### Questionnaire on Influenza and Vaccination - Child
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/sporreskjemaer/sporreskjema-om-influensa-og-vaksine-barn-papirversjon.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 29.03.2019 |
 | -- | -- | -- | -- |
@@ -332,7 +332,7 @@ See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporr
 
 
 ### Questionnaire on Influenza and Vaccination - Mother
-See [Instrument documentation](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/).
+See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/sporreskjemaer/sporreskjema-om-influensa-og-vaksine-mor-papirversjon.pdf).
 
 | Version | Original | Period of use | Number of responses in file per 29.03.2019 |
 | -- | -- | -- | -- |
