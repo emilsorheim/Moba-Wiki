@@ -189,7 +189,7 @@ See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f
 | Version | Original | Period of use | Number of responses in file per 01.08.2023 |
 | -- | -- | -- | -- | 
 | A | -- | -- | 4966|
-| B | [18-årsskjema_Versjon B.pdf](PDF/MoBaQuestionnaires/noDef/18-årsskjema_Versjon B.pdf) | -- | 2308 |
+| B | -- | -- | 2308 |
 
  
 ### 19-years Questionnaire
