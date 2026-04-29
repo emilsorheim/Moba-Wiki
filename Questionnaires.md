@@ -13,7 +13,7 @@
     - _[1.9. Q7Y, Questionnaire 7 years](#q7y-questionnaire-7-years)_
     - _[1.10. Q8Y, Questionnaire 8 years](#q8y-questionnaire-8-years)_
     - _[1.11. QF2, Father's questionnaire no. 2](#qf2-fathers-questionnaire-no-2)_
-    - _[1.12. Q-Youth-diet, Youth Diet questionnaire](#Q-Youth-diet-Youth-Diet-questionnaire)_
+    - _[1.12. Q-Youth-diet, Youth Diet questionnaire](#youth-diet-questionnaire--q-youth-diet)_
     - _[1.13. 18-Year Questionnaire](#18-year-questionnaire)_
     - _[1.14. 19 år](#19-år)_
     - _[1.15. 20-years Questionnaire](#20-years-questionnaire)_
