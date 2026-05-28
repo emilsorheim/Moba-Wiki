@@ -1,0 +1,169 @@
+# Using MoBa Data
+
+This page contains essential technical guidance for working with MoBa datasets.
+
+---
+
+## 1. Data Structure and Identifiers
+
+MoBa data are distributed across multiple datasets and must be linked prior to analysis.
+
+### Core identifiers
+
+- `PREG_ID` – Pregnancy ID  
+- `BARN_NR` – Child within pregnancy  
+- `M_ID` – Mother ID  
+- `F_ID` – Father ID  
+
+> **Important:** Identifiers are project-specific.
+
+---
+
+## 2. Merging Files
+
+Each questionnaire is delivered as separate files.
+
+### Before birth
+Use: `PREG_ID`  
+(Q1, QF, Q2, Q3)
+
+### After birth
+Use: `PREG_ID + BARN_NR`  
+Required for correct linkage of twins/triplets
+
+### Special case: QF2
+
+- Father (part 1): `F_ID`
+- Child (part 2): `PREG_ID + BARN_NR`
+
+🔗 Merge syntax: Merge%20files.md#merge-files
+
+### Important
+
+- Not all participants completed all questionnaires  
+- Missing ≠ always missing data  
+
+---
+
+## 3. Consent and Participation
+
+MoBa is consent-based.
+
+Projects receive an `SV_INFO` file with valid participants.
+
+### Withdrawal rules
+
+- Mother → entire pregnancy removed  
+- Father → only father removed  
+- Child (≥18) → entire pregnancy removed  
+
+---
+
+## 4. Variables and Coding
+
+### Coding
+
+- Typical:
+  - `1 = No`, `2 = Yes`
+- BUT no global standard → always verify
+
+### Missing values
+
+May reflect:
+- Skipped questions  
+- Version differences  
+
+Use:
+- `VERSJON_SKJEMAX_TBL1`
+
+---
+
+## 5. Questionnaire Versions
+
+Multiple versions exist (A, B, C, …)
+
+### Implications
+
+- Differences in wording and response categories  
+- Some variables differ across versions  
+
+📖 Documentation:  
+https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/
+
+---
+
+## 6. Variable Naming and Labels
+
+### Naming
+
+- Q1 → `AA`
+- Q3 → `CC`
+
+### Labels contain
+
+- Version  
+- Question number  
+- Question text  
+
+---
+
+## 7. Data Quality
+
+### Quality control
+
+**Level 1**
+- Data capture validation  
+
+**Level 2**
+- Consistency and extreme value checks  
+
+> Researchers must define their own cut-offs.
+
+---
+
+### Important variables
+
+- `ALDERUTFYLT_Sx` – may contain errors  
+
+Alternative:
+- `ALDERUTSENDT_Sx`  
+- `ALDERRETUR_Sx`
+
+---
+
+## 8. Special Data Considerations
+
+### Twins and triplets
+
+- One questionnaire per child  
+- “About yourself” only filled once  
+→ Missing values expected  
+
+### Free text
+
+- Occupation → coded (~70%)  
+- Medication → ATC-coded  
+- Other text → not included  
+
+---
+
+## 9. Generated Variables
+
+### Dietary (Q2)
+
+- 38 variables (`Q2_calculation`)
+- Based on food composition table  
+
+Important:
+- Versions A/B vs C/D/W not comparable  
+
+---
+
+## 10. Dates and Age
+
+Original dates are replaced with age variables.
+
+- Days / months / years since birth  
+- `ALDERUTFYLT_Sx` = key variable  
+
+---
