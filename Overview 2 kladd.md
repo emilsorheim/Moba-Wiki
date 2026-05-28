@@ -56,17 +56,16 @@ These data are commonly used for:
 - biomarker studies  
 - other omics-based analyses  
 
-More details:
+More details :
 - https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/genetic-data-from-the-norwegian-mother-and-child-cohort-study-mobagenetics/  
-- https://github.com/folkehelseinstituttet/mobagen  
+- https://github.com/folkehelseinstituttet/mobagen
 
----
 
 ## Tools
 
 ### Phenotools
 
-Phenotools is an R package developed to make it easier to work with MoBa data in TSD.
+Phenotools is an R package written by Laurie Hannigan to make it easier to work with MoBa data in TSD.
 
 It is particularly useful if you are working with multiple data sources or reproducible pipelines.
 
