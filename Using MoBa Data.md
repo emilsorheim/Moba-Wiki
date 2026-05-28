@@ -42,8 +42,6 @@ for merging, use:
 
 Both are needed to correctly separate children in multiple births.
 
----
-
 ### Father questionnaire (QF2)
 
 There are two parts:
@@ -51,7 +49,6 @@ There are two parts:
 - Part 1 (father): use `F_ID` for merging
 - Part 2 (child): use `PREG_ID` + `BARN_NR` for merging
 
----
 
 ### A note on missing data
 
@@ -62,7 +59,6 @@ Missing values may therefore mean:
 - the questionnaire version did not include it  
 - the participant did not respond  
 
----
 
 ### SV_INFO
 
@@ -72,7 +68,6 @@ This file:
 - contains individuals with valid consent  
 - includes `M_ID`, which can be used to identify women with multiple pregnancies  
 
----
 
 ## Consent and withdrawal
 
@@ -87,7 +82,6 @@ The rules are not entirely intuitive:
 More details (Norwegian):  
 https://www.fhi.no/op/studier/moba/deltakere/informasjonsbrev-om-reservasjonsrett/
 
----
 
 ## Variables and coding
 
@@ -102,8 +96,6 @@ But the opposite also occurs, so always check.
 For many variables:
 - a tick = 1  
 - no tick = missing  
-
----
 
 ### Questionnaire versions
 
@@ -120,7 +112,6 @@ To identify which version was answered, use `VERSJON_SKJEMAX_TBL1`
 Documentation:
 https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/
 
----
 
 ### Things worth checking
 
@@ -131,7 +122,6 @@ https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-
 Example:  
 Someone can answer “No” to smoking history but still report current smoking.
 
----
 
 ### Twins and triplets
 
@@ -143,7 +133,6 @@ However:
 
 This means some variables will be missing for siblings.
 
----
 
 ## Variable names and labels
 
@@ -157,7 +146,6 @@ Labels typically include:
 - question number  
 - question text  
 
----
 
 ## Data quality
 
@@ -174,7 +162,6 @@ MoBa data have gone through quality control, but are not fully “cleaned” for
 Important:  
 Values are usually corrected only if clearly wrong. Implausible values may still remain.
 
----
 
 ### Age variables
 
@@ -186,7 +173,6 @@ Alternatives:
 
 These can be useful if dates are inconsistent.
 
----
 
 ## Other data types
 
@@ -196,7 +182,6 @@ These can be useful if dates are inconsistent.
 - Medication: coded using ATC  
 - Other text fields: not included  
 
----
 
 ### Generated variables
 
@@ -210,7 +195,6 @@ Some data are only available as derived variables.
 Note:
 Versions A/B and C/D/W are quite different and not directly comparable.
 
----
 
 ## Final tips
 
@@ -221,7 +205,6 @@ Before starting an analysis, it is usually worth:
 - looking at missingness patterns  
 - making sure merges behave as expected  
 
----
 
 ## Questions
 
