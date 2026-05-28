@@ -15,11 +15,8 @@ The main identifiers are:
 - `M_ID` – mother  
 - `F_ID` – father  
 
-These determine how datasets can be linked and how relationships are defined.
+These determine how datasets can be linked and how relationships are defined. Note that identifiers are project-specific. The same individual will have different IDs in different projects.
 
-Note that identifiers are project-specific. The same individual will have different IDs in different projects.
-
----
 
 ## Merging data files
 
@@ -32,17 +29,15 @@ Applies to:
 - Q2 (week 22)
 - Q3 (week 30)
 
-Use:
+For merging, use:
 - `PREG_ID`  
-
----
 
 ### Data after birth
 
 Applies to:
 - Q4, Q5, Q6, Q5Y, Q7Y, etc.
 
-Use:
+for merging, use:
 - `PREG_ID` + `BARN_NR`  
 
 Both are needed to correctly separate children in multiple births.
@@ -53,8 +48,8 @@ Both are needed to correctly separate children in multiple births.
 
 There are two parts:
 
-- Part 1 (father): use `F_ID`
-- Part 2 (child): use `PREG_ID` + `BARN_NR`
+- Part 1 (father): use `F_ID` for merging
+- Part 2 (child): use `PREG_ID` + `BARN_NR` for merging
 
 ---
 
@@ -119,10 +114,8 @@ This affects:
 - response options  
 - whether variables are directly comparable  
 
-Use:
-- `VERSJON_SKJEMAX_TBL1`  
 
-to identify which version was answered.
+To identify which version was answered, use `VERSJON_SKJEMAX_TBL1`
 
 Documentation:
 https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/
