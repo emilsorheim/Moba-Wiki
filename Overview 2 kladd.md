@@ -1,102 +1,33 @@
-# MoBa for Researchers – Overview
+# MoBa – Overview for researchers
 
-This page provides a high-level overview of the Norwegian Mother, Father and Child Cohort Study (MoBa) and its data.
+This page gives a short introduction to MoBa and what kind of data you can expect to work with.
+
+For practical guidance (merging, variables, data structure, etc.), see:  
+➡️ Using_MoBa_Data.md
 
 ---
 
-## About MoBa
+## What is MoBa?
 
-The Norwegian Mother, Father and Child Cohort Study (MoBa) is a **longitudinal, population-based cohort study** conducted by the Norwegian Institute of Public Health (FHI).
+The Norwegian Mother, Father and Child Cohort Study (MoBa) is a longitudinal cohort study run by the Norwegian Institute of Public Health (FHI).
 
-### Key features
+Participants were recruited during pregnancy and followed over time through repeated data collections. The cohort includes mothers, fathers, and children.
 
-- Prospective cohort (recruitment during pregnancy)
-- Long-term follow-up with repeated data collection
-- Includes:
-  - Mothers
-  - Fathers
-  - Children (from birth onwards)
+Because of this structure, the data can be used for analyses at several levels — individuals, families, and across generations.
 
-### Research scope
+The main purpose of MoBa is to study causes and development of disease, and factors that influence health over time.
 
-MoBa supports analyses of:
+MoBa data are often used to look at:
+- associations between exposures and outcomes
+- how disease develops over time
+- genetic and environmental interactions
+- differences between individuals and families  
 
-- Risk factors and causes of disease  
-- Disease development over time  
-- Genetic and environmental interactions  
-- Family and intergenerational effects  
+MoBa can also be linked to national health registries, which makes it possible to follow participants over many years using:
+- hospital data  
+- prescription data  
+- mortality and other long-term outcomes  
 
-### Registry linkage
-
-MoBa can be linked to national registries, enabling:
-
-- Diagnoses and hospital data  
-- Prescription data  
-- Mortality and long-term outcomes  
-
-📖 Data access:  
+More information about applying for data:  
 https://www.fhi.no/op/studier/moba/forskere/forskning-og-datatilgang-fra-den-no/
 
----
-
-## Types of Data
-
-MoBa integrates several complementary data sources.
-
-🔗 Full data overview:  
-https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/moba-research-data-files/
-
-### Questionnaire data
-- Mothers, fathers, and children  
-- Topics include:
-  - Health
-  - Lifestyle and diet  
-  - Socioeconomic and psychosocial factors  
-- Collected repeatedly over time  
-
-### Biological data (biobank)
-- Blood, urine, cord blood  
-- Enables:
-  - Genetic analyses (GWAS)
-  - Biomarker research  
-  - Omics studies  
-
-📖 More:
-- Genetics: https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/genetic-data-from-the-norwegian-mother-and-child-cohort-study-mobagenetics/  
-- GitHub: https://github.com/folkehelseinstituttet/mobagen  
-
----
-
-## Tools and Resources
-
-### Phenotools (R package)
-Supports efficient and reproducible use of MoBa data in TSD.
-
-🔗 https://github.com/psychgen/phenotools
-
----
-
-## Contributing to the Syntax Library
-
-MoBa Wiki includes a shared syntax library.
-
-If you would like to contribute:
-📧 MorBarnData@fhi.no  
-
-> All contributed syntax is reviewed, but MoBa is not responsible for errors in study results caused by syntax.
-
----
-
-## Using MoBa Data
-
-👉 All practical guidance (merging, identifiers, variables, data quality) is collected here:
-
-➡️ **[Using MoBa Data](Using_MoBa_Data.md)**
-
----
-
-## Questions or Feedback
-
-For questions about data, variables, or documentation:
-
-📧 MorBarnData@fhi.no
