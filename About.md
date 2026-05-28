@@ -1,16 +1,9 @@
 # About MoBa
 
 #### Table of Contents
-- _[1. About the Norwegian Mother, Father and Child Cohort Study (MoBa)](#about-the-norwegian-mother-father-and-child-cohort-study-moba)_
-- _[2. FAQ](#faq)_
-- _[3. Contact](#contact)_
+- _[1. FAQ](#faq)_
+- _[2. Contact](#contact)_
      
-## About the Norwegian Mother, Father and Child Cohort Study (MoBa)
-The Norwegian Mother, Father and Child Cohort Study (MoBa) is a study of the causes of disease among mothers and children. MoBa began to recruit pregnant women in 1999. Fathers were also invited. In 2008, the goal of more than 100 000 pregnancies was reached. Biological material and questionnaire data have been collected since the 17th week of pregnancy which makes the study unique.
-
-For more information about the cohort, please visit the MoBa website at the [Norwegian Institute of Public Health's homepage](https://www.fhi.no/en/ch/studies/moba/).
-#
-
 ## FAQ
 
 ### I have just received files from MoBa, where do I start?
@@ -33,6 +26,8 @@ Each file includes variables for age of child (in days) when the questionnaire w
 Note, for the questionnaires filled out before birth these variables corresponds to number of days before the child is born. When generating variables for response time for these questionnaires, the questionnaire has to be merged with the file from the Medical Birth Registry of Norway (MBRN) in order to get information on gestational age in days. 
 
 ## Contact
+For more information about the cohort, please visit the MoBa website at the [Norwegian Institute of Public Health's homepage](https://www.fhi.no/en/ch/studies/moba/).
+
 If you have questions or comments regarding any of the contents at the MoBa MediaWiki, please contact: MorBarnData@fhi.no 
 
 If you have questions or comments regarding accessing data from MoBa, and you have already applied for data, please contact: mobaadm@fhi.no
