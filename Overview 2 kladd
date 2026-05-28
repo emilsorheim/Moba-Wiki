@@ -1,340 +1,102 @@
-# MoBa Data – Overview
+# MoBa for Researchers – Overview
 
-This page provides essential information for researchers working with data from the Norwegian Mother, Father and Child Cohort Study (MoBa).
-
----
-
-## Contributing to the Syntax Library
-
-MoBa Wiki includes a growing syntax library for commonly used variables.
-
-If you would like to contribute syntax that may be useful to other researchers, please contact:  
-📧 [MorBarnData@fhi.no](mailto:MorBarnData@fhi.no)
-
-> **Note:**  
-> All syntax published on the MoBa Wiki is reviewed by MoBa, but MoBa is not responsible for errors in study results caused by syntax.
+This page provides a high-level overview of the Norwegian Mother, Father and Child Cohort Study (MoBa) and its data.
 
 ---
 
-## Scope and Purpose
+## About MoBa
 
 The Norwegian Mother, Father and Child Cohort Study (MoBa) is a **longitudinal, population-based cohort study** conducted by the Norwegian Institute of Public Health (FHI).
 
-### Key characteristics
+### Key features
 
-- Prospective cohort (participants enrolled during pregnancy)
+- Prospective cohort (recruitment during pregnancy)
 - Long-term follow-up with repeated data collection
 - Includes:
   - Mothers
   - Fathers
-  - Children (followed from birth onwards)
+  - Children (from birth onwards)
 
-### Research potential
+### Research scope
 
-MoBa enables analyses at:
-- Individual level  
-- Family level  
-- Intergenerational level  
+MoBa supports analyses of:
 
-The study supports research on:
-- Causes and risk factors of disease  
-- Disease progression and outcomes  
+- Risk factors and causes of disease  
+- Disease development over time  
 - Genetic and environmental interactions  
-- Variation in risk across populations  
+- Family and intergenerational effects  
 
-### Registry linkages
+### Registry linkage
 
-MoBa data can be linked to national health registries, providing:
+MoBa can be linked to national registries, enabling:
+
 - Diagnoses and hospital data  
 - Prescription data  
 - Mortality and long-term outcomes  
 
-📖 More on data access and requirements:  
-[Slik søker du om MoBa-data (FHI)](https://www.fhi.no/op/studier/moba/forskere/forskning-og-datatilgang-fra-den-no/)
+📖 Data access:  
+https://www.fhi.no/op/studier/moba/forskere/forskning-og-datatilgang-fra-den-no/
 
 ---
 
-## Types of Data in MoBa
+## Types of Data
 
-🔗 Full overview of research data files:  
+MoBa integrates several complementary data sources.
+
+🔗 Full data overview:  
 https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/moba-research-data-files/
 
-### 1. Questionnaire Data
-- Collected from mothers, fathers, and children  
-- Includes:
-  - Physical and mental health  
+### Questionnaire data
+- Mothers, fathers, and children  
+- Topics include:
+  - Health
   - Lifestyle and diet  
   - Socioeconomic and psychosocial factors  
-- Repeated over time (pregnancy → adulthood)
+- Collected repeatedly over time  
 
-### 2. Biological Data (Biobank)
-- Samples include:
-  - Blood  
-  - Urine  
-  - Cord blood  
+### Biological data (biobank)
+- Blood, urine, cord blood  
 - Enables:
-  - Genetic analysis (GWAS)  
+  - Genetic analyses (GWAS)
   - Biomarker research  
-  - Omics (e.g., epigenetics, metabolomics)
+  - Omics studies  
 
-📖 More information:  
-- [Genetic data in MoBa](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/genetic-data-from-the-norwegian-mother-and-child-cohort-study-mobagenetics/)  
-- [MoBa Genetics GitHub](https://github.com/folkehelseinstituttet/mobagen)
+📖 More:
+- Genetics: https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/genetic-data-from-the-norwegian-mother-and-child-cohort-study-mobagenetics/  
+- GitHub: https://github.com/folkehelseinstituttet/mobagen  
 
 ---
 
-## Tools for Working with MoBa Data
+## Tools and Resources
 
 ### Phenotools (R package)
-
-Phenotools helps facilitate efficient and reproducible use of MoBa data in TSD.
+Supports efficient and reproducible use of MoBa data in TSD.
 
 🔗 https://github.com/psychgen/phenotools
 
 ---
 
-## Data Structure and Identifiers
+## Contributing to the Syntax Library
 
-MoBa data are distributed across multiple datasets and must be linked prior to analysis.
+MoBa Wiki includes a shared syntax library.
 
-### Core identifiers
+If you would like to contribute:
+📧 MorBarnData@fhi.no  
 
-- `PREG_ID` – Pregnancy ID  
-- `BARN_NR` – Child number within pregnancy  
-- `M_ID` – Mother ID  
-- `F_ID` – Father ID  
-
-> **Important:**  
-> Identifiers are project-specific. The same individual will have different IDs across projects.
+> All contributed syntax is reviewed, but MoBa is not responsible for errors in study results caused by syntax.
 
 ---
 
-## Merging Files
+## Using MoBa Data
 
-Each questionnaire is delivered as separate data files.
+👉 All practical guidance (merging, identifiers, variables, data quality) is collected here:
 
-### Before birth (pregnancy data)
-- Use: `PREG_ID`
-- Applies to:
-  - Q1, QF (week 15–17)
-  - Q2 (week 22)
-  - Q3 (week 30)
-
-### After birth (child data)
-- Use: `PREG_ID` + `BARN_NR`
-- Required for correct linkage (especially twins/triplets)
-- Applies to:
-  - Q4, Q5, Q6, Q5Y, Q7Y, etc.
-
-### Special case: Father questionnaire (QF2)
-- Part 1 (father): use `F_ID`
-- Part 2 (child): use `PREG_ID` + `BARN_NR`
-
-🔗 See syntax examples: [Merge files](Merge%20files.md#merge-files)
-
-### Important considerations
-
-- Not all participants completed all questionnaires  
-- Missing values may reflect non-participation (not just missing responses)
-
-`SV_INFO`:
-- Contains `M_ID`
-- Can be used to identify mothers with multiple pregnancies (siblings)
-
----
-
-## Consent and Withdrawal
-
-MoBa is a **consent-based study**, and participants may withdraw at any time.
-
-Projects receive an `SV_INFO` file containing individuals with valid consent.
-
-### Withdrawal rules
-
-- **Mother withdraws** → entire pregnancy removed (all individuals)
-- **Father withdraws** → only father removed
-- **Child (≥18 years) withdraws** → entire pregnancy removed
-
-📖 More information (Norwegian):  
-https://www.fhi.no/op/studier/moba/deltakere/informasjonsbrev-om-reservasjonsrett/
-
----
-
-## Variables and Coding
-
-### Coding conventions
-
-- Categorical variables typically coded:
-  - `1 = No`
-  - `2 = Yes`
-- BUT: No global standard → always verify coding
-
-- Dichotomous variables:
-  - `1 = ticked`
-  - Missing = not ticked
-
-### Important points
-
-- Missing values may occur because:
-  - Question not included in questionnaire version  
-  - Follow-up questions skipped  
-
-- Use:
-  - `VERSJON_SKJEMAX_TBL1` → identify questionnaire version  
-
-### Data consistency
-
-Researchers should:
-- Check for logical inconsistencies  
-- Handle skip patterns carefully  
-- Consider interpretation of responses  
-
-### Twins and triplets
-
-- Mother fills one questionnaire per child after birth  
-- “About yourself” section only filled for first child  
-- Data not duplicated → missing values expected for siblings  
-
----
-
-## Questionnaire Versions
-
-MoBa questionnaires exist in multiple versions (A, B, C, …).
-
-### Implications
-
-- Differences in:
-  - Question wording  
-  - Response categories  
-  - Variable definitions  
-
-- Some variables:
-  - Stored together (if identical)  
-  - Stored separately (if substantially different)
-
-### Additional variations
-
-- Paper vs digital versions (W) for:
-  - Q2 (diet)
-  - Q6 (3 years)
-  - Q7 (7 years)
-
-📖 Documentation:
-- [Questionnaires (FHI)](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/)
-- Wiki: [Questionnaires](Questionnaires.md)
-
----
-
-## Variable Naming and Labels
-
-### Variable names
-
-- Prefix indicates questionnaire:
-  - Q1 → `AA...`
-  - Q3 → `CC...`
-
-> Note: Question numbers may differ across versions.
-
-### Variable labels include
-
-1. Questionnaire version  
-2. Question number  
-3. Question text  
-
----
-
-## Data Quality
-
-### Quality control levels
-
-**Level 1 – Data capture**
-- Validation of scanned/digital responses  
-- Checks for invalid multiple selections  
-
-**Level 2 – Data validation**
-- Consistency checks  
-- Detection of extreme values  
-- Corrections based on original responses  
-
-> **Note:**  
-> Data may still contain implausible values → researchers must define cut-offs.
-
----
-
-### Special variables
-
-- `ALDERUTFYLT_Sx` – Age at questionnaire completion  
-- May contain errors due to incorrect dates  
-
-Alternative variables:
-- `ALDERUTSENDT_Sx` (sent date)  
-- `ALDERRETUR_Sx` (return date)
-
----
-
-### Digital questionnaires
-
-- Built-in validation rules  
-- Single-choice enforced via radio buttons  
-
----
-
-### Free-text data
-
-- Occupation → coded (~70%)  
-- Medications → coded using ATC  
-- Other text → not coded, not included  
-
----
-
-### Paper questionnaire indicators
-
-Variables such as:
-- `Q1P1`, `Q1P2`, etc.
-
-Used to:
-- Detect missing pages  
-- Support data quality checks  
-
----
-
-## Generated Variables
-
-Some variables are generated due to confidentiality or usability.
-
-### Dietary variables (Q2)
-
-- 38 variables available in `Q2_calculation`
-- Based on Norwegian Food Composition Table (2001)
-- Does **not include supplements**
-
-Version variable:
-- `VERSJON_KOST_TBL1`
-
-Important:
-- Versions A/B differ substantially from C/D/W  
-- A/B data only available on request  
-
----
-
-## Dates and Age
-
-- Original dates are replaced with age variables  
-- Expressed as:
-  - Days  
-  - Months  
-  - Years since birth  
-
-`ALDERUTFYLT_Sx` represents child age at questionnaire completion.
+➡️ **[Using MoBa Data](Using_MoBa_Data.md)**
 
 ---
 
 ## Questions or Feedback
 
-If you:
-- Identify data issues  
-- Have questions about variables or files  
-- Find documentation inconsistencies  
+For questions about data, variables, or documentation:
 
-Please contact:  
 📧 MorBarnData@fhi.no
