@@ -1,6 +1,8 @@
 # Using MoBa data
 
-This page covers things you will need to know when working with MoBa data in practice.
+This page covers things you will need to know when working with MoBa data in practice. 
+
+For questions, contact MorBarnData@fhi.no
 
 ---
 
@@ -204,8 +206,3 @@ Before starting an analysis, it is usually worth:
 - verifying coding for key variables  
 - looking at missingness patterns  
 - making sure merges behave as expected  
-
-
-## Questions
-
-Contact: MorBarnData@fhi.no
