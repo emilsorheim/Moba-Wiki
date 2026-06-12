@@ -28,7 +28,7 @@ MoBa can be linked to national health registries, which allows comprehensive fol
 
 Projects must fullfil a set of requirements before access to data is approved. Further details on the application process can be found here: [Slik søker du om MoBa-data (FHI)](https://www.fhi.no/op/studier/moba/forskere/forskning-og-datatilgang-fra-den-no/)
 
----
+
 
 ### Types of Data in MoBa
 
@@ -104,7 +104,7 @@ Some participants will have data from all questionnaires, while others will only
 
 
 ### Variables and Coding
-### Coding of variables 
+#### Coding of variables 
 A categorical variable is coded ‘1’ for the first category, ‘2’ for the second category, and so on. Normally, the answer category ‘No’ is coded ‘1’ and ‘Yes’ is coded ‘2’. However, there is no global coding convention across datasets in Moba, and the direction of coding might be opposite, where ‘Yes’ is coded ‘1’ and ‘No’ is coded ‘2’. 
 
 In general, one should always check the questionnaires for the correct sequence of categories. Dichotomous variables are coded ‘1’ for a tick and a blank (missing) value when there is no tick.
