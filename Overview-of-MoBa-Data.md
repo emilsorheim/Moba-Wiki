@@ -68,22 +68,6 @@ The data within Moba are distributed across multiple datasets and must be linked
 - `F_ID` (Father's identifier) 
 
 These variables determines how datasets can be linked and how relations within Moba are identified. All identifiers are specific for each project granted access to Moba, meaning that one person has different values on an personal identifer variable between different projects given access to Moba data.
-
-### Merging files
-
-Considering the large amount of data, each questionnaire is delivered as separate data files. When merging the files for analysis, it is important to be aware of the following
-
-* **Data files based on data before birth** *(questionnaire at week 15-17 of pregnancy (Q1, QF), Week 22 of pregnancy (Q2), Week 30 of pregnancy(Q3))*: Include a unique identifier for pregnancy called ‘PREG_ID_XX’. This variable must be used as the key variable when merging files.
-* **Data files based on data after birth** *(questionnaire at 6 months (Q4), 18 months (Q5), 3 years (Q6), 5 years (Q5Y), 7 years (Q7Y) etc.)*: Include a identifier for pregnancy (‘PREG_ID_XX’) and a identifier for the child (‘BARN_NR’). Both variables ‘PREG_ID_XX’ and ‘BARN_NR’ must be used when merging files based on data after birth to ensure that data is linked correctly for twins/triplets.
-* **For the second Father questionnaire** *(QF2)*:
-  * _**Data file based on data from Part 1 (about the father)**_ inlude a unique identifier for the father called ‘F_ID_XX’. This variable must be used as the key variable when merging files.
-  * _**Data file based on data from Part 2 (about the child)**_ inlude a identifier for pregnancy (‘PREG_ID_XX’) and a identifier for the child (‘BARN_NR’). Both variables ‘PREG_ID_XX’ and ‘BARN_NR’ must be used when merging files based on data after birth to ensure that data is linked correctly for twins/triplets.
-
-Syntax for merging files can be found on the wiki page [Merge files](Merge%20files.md#merge-files).
-
-##### Important considerations
-Some participants will have data from all questionnaires, while others will only have data from one questionnaire. It is crucial to be aware of this when interpreting missing values. The data set “SV_INFO” includes a unique identifier for each woman called ‘M_ID_XX’. This variable can be used to identify women who participate with more than one pregnancy and hence identify siblings.
-
   
 ### Consent to participation and withdrawal of consent
 
@@ -98,7 +82,23 @@ The number of participants and pregnancies included in this file follow a compli
 
 More information about withdrawal of children's consent can be found here (in Norwegian): https://www.fhi.no/op/studier/moba/deltakere/informasjonsbrev-om-reservasjonsrett/
 
----
+
+### Merging files
+
+Considering the large amount of data, each questionnaire is delivered as separate data files. When merging the files for analysis, it is important to be aware of the following
+
+* **Data files based on data before birth** *(questionnaire at week 15-17 of pregnancy (Q1, QF), Week 22 of pregnancy (Q2), Week 30 of pregnancy(Q3))*: Include a unique identifier for pregnancy called ‘PREG_ID_XX’. This variable must be used as the key variable when merging files.
+* **Data files based on data after birth** *(questionnaire at 6 months (Q4), 18 months (Q5), 3 years (Q6), 5 years (Q5Y), 7 years (Q7Y) etc.)*: Include a identifier for pregnancy (‘PREG_ID_XX’) and a identifier for the child (‘BARN_NR’). Both variables ‘PREG_ID_XX’ and ‘BARN_NR’ must be used when merging files based on data after birth to ensure that data is linked correctly for twins/triplets.
+* **For the second Father questionnaire** *(QF2)*:
+  * _**Data file based on data from Part 1 (about the father)**_ inlude a unique identifier for the father called ‘F_ID_XX’. This variable must be used as the key variable when merging files.
+  * _**Data file based on data from Part 2 (about the child)**_ inlude a identifier for pregnancy (‘PREG_ID_XX’) and a identifier for the child (‘BARN_NR’). Both variables ‘PREG_ID_XX’ and ‘BARN_NR’ must be used when merging files based on data after birth to ensure that data is linked correctly for twins/triplets.
+
+Syntax for merging files can be found on the wiki page [Merge files](Merge%20files.md#merge-files).
+
+#### Important considerations
+Some participants will have data from all questionnaires, while others will only have data from one questionnaire. It is crucial to be aware of this when interpreting missing values. The data set “SV_INFO” includes a unique identifier for each woman called ‘M_ID_XX’. This variable can be used to identify women who participate with more than one pregnancy and hence identify siblings.
+
+
 
 ### Variables and Coding
 #### Coding of variables 
