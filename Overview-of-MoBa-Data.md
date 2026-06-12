@@ -68,6 +68,8 @@ The data within Moba are distributed across multiple datasets and must be linked
 - `F_ID` (Father's identifier) 
 
 These variables determines how datasets can be linked and how relations within Moba are identified. All identifiers are specific for each project granted access to Moba, meaning that one person has different values on an personal identifer variable between different projects given access to Moba data.
+
+---
   
 ### Consent to participation and withdrawal of consent
 
@@ -82,6 +84,7 @@ The number of participants and pregnancies included in this file follow a compli
 
 More information about withdrawal of children's consent can be found here (in Norwegian): https://www.fhi.no/op/studier/moba/deltakere/informasjonsbrev-om-reservasjonsrett/
 
+---
 
 ### Merging files
 
