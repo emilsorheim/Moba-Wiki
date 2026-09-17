@@ -1,6 +1,6 @@
 # Merge files
 
-#In the code below syntax/code for merging MBRN, Q1 and Q3 is shown.
+# In the code below syntax/code for merging MBRN, Q1 and Q3 is shown.
 
 ### Code in SPSS 
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
