@@ -52,15 +52,6 @@ There are two parts:
 - Part 2 (child): use `PREG_ID` + `BARN_NR` for merging
 
 
-### A note on missing data
-
-Not everyone participates in all questionnaires.
-
-Missing values may therefore mean:
-- the question was not asked  
-- the questionnaire version did not include it  
-- the participant did not respond  
-
 
 ### SV_INFO
 
@@ -113,16 +104,6 @@ To identify which version was answered, use `VERSJON_SKJEMAX_TBL1`
 
 Documentation:
 https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/
-
-
-### Things worth checking
-
-- skip patterns (missing values after “No” answers)  
-- inconsistent answers  
-- version differences  
-
-Example:  
-Someone can answer “No” to smoking history but still report current smoking.
 
 
 ### Twins and triplets
@@ -197,12 +178,3 @@ Some data are only available as derived variables.
 Note:
 Versions A/B and C/D/W are quite different and not directly comparable.
 
-
-## Final tips
-
-Before starting an analysis, it is usually worth:
-
-- checking which questionnaire versions you are using  
-- verifying coding for key variables  
-- looking at missingness patterns  
-- making sure merges behave as expected  
