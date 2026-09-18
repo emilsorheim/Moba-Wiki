@@ -1,11 +1,6 @@
 # Overview of MoBa Data
 
 
-### Phenotools
-Phenotools is an R package written by Laurie Hannigan.
-The goal of the phenotools package is to facilitate efficient and reproducible use of phenotypic data from MoBa and linked registry sources in the TSD environment. More information can be found on [MoBa Phenotools Github site](https://github.com/psychgen/phenotools).
-
-
 ### Core Structure
 
 The data within Moba are distributed across multiple datasets and must be linked prior to analysis. They are recorded at both pregnancy level and individual level. These are the identifiers used in Moba:
@@ -94,6 +89,10 @@ Some questions are excluded from the data files for confidential and practical r
 38 variables are generated from the dietary questionnaire and are included in the file “Q2_calculation”. These variables are calculated by use of the Norwegian Food Composition Table 2001. Note that dietary supplements are not included in the intake calculations of vitamins and minerals. The variable ‘VERSJON_KOST_TBL1’ specify which version (KOST_A=A/B or KOST_B=C/D/W) of the dietary questionnaire the calculations are based on. Questionnaires A and B are very different from questionnaires C, D and W. In version A and B the women are asked what they have been eating the last 12 months before they became pregnant, while in version C, D and W they are asked what they have been eating since they became pregnant and until the day they filled out the questionnaire (about week 17-22).
 Note that data from the first two versions (A and B) of the diet questionnaire, are given in separate files only by request, since they are not comparable to the questionnaires C, D and W.
 
+
+### Phenotools
+Phenotools is an R package written by Laurie Hannigan.
+The goal of the phenotools package is to facilitate efficient and reproducible use of phenotypic data from MoBa and linked registry sources in the TSD environment. More information can be found on [MoBa Phenotools Github site](https://github.com/psychgen/phenotools).
 
 
 
