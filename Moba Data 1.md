@@ -52,23 +52,20 @@ The data within Moba are distributed across multiple datasets and must be linked
 - `M_ID` (Mother's identifier)
 - `F_ID` (Father's identifier) 
 
-These variables determines how datasets can be linked and how relations within Moba are identified. All identifiers are specific for each project granted access to Moba, meaning that one person has different values on an personal identifer variable between different projects given access to Moba data.
+These variables determines how datasets can be linked and how relations within Moba are identified. All identifiers are specific for each project granted access to Moba, meaning that one person has different values on an personal identifer variable between different projects given access to Moba data. The data set “SV_INFO” includes a unique identifier for each woman called ‘M_ID_XX’. This variable can be used to identify women who participate with more than one pregnancy and hence identify siblings.
+
 
 ---
 #### Versions
-A guideline for use of MoBa data can be found on wiki page [User guides](User%20guides.md) (only available in Norwegian). Below, some important points are listed.
+A guideline for use of MoBa data can be found on wiki page [User guides](User%20guides.md) (only available in Norwegian). 
 
-Throughout the history of Moba, questionnaires have been revised and there are more than one version of each questionnaire (A, B, C, ..).. This affects some variables between versions of a questionnaire, resulting in:
-- variation in question wording  
-- variation in response categories  
-- version-specific variables
-- differences between variables with identical names between versions in a questionnaire
+Throughout the history of Moba, questionnaires have been revised and there are more than one version of each questionnaire (A, B, C, ..).. This affects some variables between versions of a questionnaire, sometimes resulting in version-specific questions, categories and wording.
 
-Many questions are identical across versions and the data is stored in the same variable. Where the questions differs significally between versions data is stored in separate variables. In addition, there are both paper versions and a digital version (W) for the dietary (Q2), 3 year (Q6) and 7 year (Q7) questionnaire. The instrument documentation for each questionnaire contain information about differences between versions of questionnaires as well as meaning of each value on the variables within the questionnaire. 
+Many questions are identical across versions and the data is stored in the same variable. Where the questions differs significally between versions, data is stored in separate variables. In addition, there are both paper versions and a digital version (W) for the dietary (Q2), 3 year (Q6) and 7 year (Q7) questionnaire. 
 
-The instrument documentation for each available Moba questionnaire can be found here: [Questionnaires from Moba](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/)
+##### The instrument documentation for each questionnaire contain information about differences between versions of questionnaires as well as meaning of each value on the variables within the questionnaire. The instrument documentation for each available Moba questionnaire can be found here: [Questionnaires from Moba](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/)
 
-An overview of all questionnaires can be found on the wiki page [Questionnaires](Questionnaires.md) and on fhi.no ([English versions](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/), [Norwegian versions](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/))
+##### An overview of all questionnaires can be found on the wiki page [Questionnaires](Questionnaires.md) and on fhi.no ([English versions](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/), [Norwegian versions](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/))
 
 
 #### Questionnaire on paper
