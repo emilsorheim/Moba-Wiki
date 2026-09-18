@@ -1,43 +1,4 @@
-# Overview of MoBa Data
-
-
-### Core Structure
-
-The data within Moba are distributed across multiple datasets and must be linked prior to analysis. They are recorded at both pregnancy level and individual level. These are the identifiers used in Moba:
-
-- `PREG_ID` (pregnancy identifier)  
-- `BARN_NR` (child identifier within pregnancy)
-- `M_ID` (Mother's identifier)
-- `F_ID` (Father's identifier) 
-
-These variables determines how datasets can be linked and how relations within Moba are identified. All identifiers are specific for each project granted access to Moba, meaning that one person has different values on an personal identifer variable between different projects given access to Moba data.
-
----
-  
-
-
-### Variables and Coding
-#### Coding of variables 
-A categorical variable is coded ‘1’ for the first category, ‘2’ for the second category, and so on. Normally, the answer category ‘No’ is coded ‘1’ and ‘Yes’ is coded ‘2’. However, there is no global coding convention across datasets in Moba, and the direction of coding might be opposite, where ‘Yes’ is coded ‘1’ and ‘No’ is coded ‘2’. 
-
-In general, one should always check the questionnaires for the correct sequence of categories. Dichotomous variables are coded ‘1’ for a tick and a blank (missing) value when there is no tick.
-
-Not all questions are present in every version of a questionnaire. Hence, a variable may have a missing value because the respondent has answered a version of the questionnaire that does not include the specific question. The variable label indicates in which version(s) a specific question was asked, while the variable ‘VERSJON_SKJEMAX_TBL1’ indicates which version of the questionnaire each respondent has answered. If you want to use a variable not included in e.g. version A of a questionnaire, you can use ‘VERSJON_SKJEMAX_TBL1’ to remove version A-respondents from the data set.
-
-### Variable names
-The variable names consist of two or more letters and a number. In questionnaire 1 (Q1) all variables (corresponding to questions) are named ‘AA’ followed by a number. In questionnaire 3 (Q3) all variables (corresponding to questions) are named ‘CC’ followed by a number.
-
-Note that the question number may differ in different versions of the questionnaire. Labels have been translated into English for the majority of the questionnaires.
-
-### Variable labels
-The variable labels include the following information:
-1. The questionnaire version(s) in which the question is found
-2. The question number(s)
-3. The question text
-
-
-
-### Data quality
+### Moba Data
 
 ### Versions
 A guideline for use of MoBa data can be found on wiki page [User guides](User%20guides.md) (only available in Norwegian). Below, some important points are listed.
@@ -54,9 +15,11 @@ The instrument documentation for each available Moba questionnaire can be found 
 
 An overview of all questionnaires can be found on the wiki page [Questionnaires](Questionnaires.md) and on fhi.no ([English versions](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/), [Norwegian versions](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/))
 
+
 ### Dates and age
 All date variables in the questionnaires are replaced by variables that correspond with the child’s age in days/months/years. <br><br>
 The generated variable ‘ALDERUTFYLT_Sx’ contains information about when the questionnaire was filled out by the respondent, given by time in days/months/years from the date of birth of the child until filling out the questionnaire. This will correspond to the child’s age in days, months or years. <br>
+
 
 ### Questionnaire on paper
 MoBa data have been through extensive quality control procedures. These are divided in two levels. <br>
