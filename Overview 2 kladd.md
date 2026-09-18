@@ -87,5 +87,4 @@ Note that syntax is checked before it is published, but MoBa is not responsible 
 
 ## Questions
 
-If you have questions about the data or notice something that looks wrong, contact:  
-MorBarnData@fhi.no
+#### If you have questions about the data or notice something that looks wrong, contact:  MorBarnData@fhi.no
