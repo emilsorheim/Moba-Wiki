@@ -115,7 +115,5 @@ Please contact [MorBarnData@fhi.no](mailto:MorBarnData@fhi.no) if you have syn
 **All syntax published on the MoBa Wiki page is checked by MoBa, but MoBa is not responsible for any errors in the study results that are caused by errors in syntax.** 
 
 
-
-
-# Questions
-If you have questions or comments about the data files or suspect that something can be incorrect in labels or other documentation, please contact us at MorBarnData@fhi.no.
+### Questions
+#### If you have questions about the data or notice something that looks wrong, contact:  MorBarnData@fhi.no
