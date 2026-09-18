@@ -6,32 +6,15 @@ For practical guidance (merging, variables, data structure, etc.), see:
 ➡️ Using_MoBa_Data.md
 
 ---
+### Scope and Purpose
+The Norwegian Mother, Father and Child Cohort Study (MoBa) is an ongoing and consent-based longitudinal cohort study conducted by the Norwegian Institute of Public Health (FHI). The study was established to generate knowledge about the causes, risk factors, courses, and consequences of diseases and health outcomes, with the objective of improving prevention and treatment. This objective determines both the design of the cohort and the structure of the data. 
 
-## What is MoBa?
+The participants in Moba are enrolled during pregnancy and followed over time with repeated data collections. The cohort includes mothers, fathers, and children. 
 
-The Norwegian Mother, Father and Child Cohort Study (MoBa) is a longitudinal cohort study run by the Norwegian Institute of Public Health (FHI).
+The data support analyses of associations between exposures and health outcomes, temporal development of disease, interactions between genetic and environmental factors and variation in risk across individuals and families, and the study enables analyses at the individual, family, and intergenerational level. MoBa can be linked to national health registries, which allows comprehensive follow-up across the life course.
 
-Participants were recruited during pregnancy and followed over time through repeated data collections. The cohort includes mothers, fathers, and children.
+Projects must fullfil a set of requirements before access to data is granted. Further details on the application process can be found here: [Slik søker du om MoBa-data (FHI)](https://www.fhi.no/op/studier/moba/forskere/forskning-og-datatilgang-fra-den-no/)
 
-Because of this structure, the data can be used for analyses at several levels — individuals, families, and across generations.
-
-The main purpose of MoBa is to study causes and development of disease, and factors that influence health over time.
-
-MoBa data are often used to look at:
-- associations between exposures and outcomes
-- how disease develops over time
-- genetic and environmental interactions
-- differences between individuals and families  
-
-MoBa can also be linked to national health registries, which makes it possible to follow participants over many years using:
-- hospital data  
-- prescription data  
-- mortality and other long-term outcomes  
-
-More information about applying for data:  
-https://www.fhi.no/op/studier/moba/forskere/forskning-og-datatilgang-fra-den-no/
-
----
 
 ## What data are available?
 
@@ -59,31 +42,6 @@ These data are commonly used for:
 More details :
 - https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/genetic-data-from-the-norwegian-mother-and-child-cohort-study-mobagenetics/  
 - https://github.com/folkehelseinstituttet/mobagen
-
-
-## Tools
-
-### Phenotools
-
-Phenotools is an R package written by Laurie Hannigan to make it easier to work with MoBa data in TSD.
-
-It is particularly useful if you are working with multiple data sources or reproducible pipelines.
-
-https://github.com/psychgen/phenotools
-
----
-
-## Contributing syntax
-
-There is a shared syntax library on the MoBa Wiki.
-
-If you have code for generating variables that could be useful for others, feel free to share it.
-
-Contact: MorBarnData@fhi.no
-
-Note that syntax is checked before it is published, but MoBa is not responsible for errors in analyses that result from use of shared syntax.
-
----
 
 ## Questions
 
