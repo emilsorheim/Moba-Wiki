@@ -1,14 +1,5 @@
 # Overview of MoBa Data
 
-### Would you like to contribute with syntax to MoBa's syntax library? 
-
-MoBa Wiki includes a syntax library for variables that may be helpful when analyzing data from MoBa. The aim is to build a more extensive syntax library covering different types of variables based on data from all MoBa questionnaires. 
-
-Please contact [MorBarnData@fhi.no](mailto:MorBarnData@fhi.no) if you have syntax on how to generate variables based on data from MoBa that you think might be helpful to other research projects. 
-
-**All syntax published on the MoBa Wiki page is checked by MoBa, but MoBa is not responsible for any errors in the study results that are caused by errors in syntax.** 
-
-
 
 ### Scope and Purpose
 
@@ -29,29 +20,6 @@ MoBa can be linked to national health registries, which allows comprehensive fol
 Projects must fullfil a set of requirements before access to data is approved. Further details on the application process can be found here: [Slik søker du om MoBa-data (FHI)](https://www.fhi.no/op/studier/moba/forskere/forskning-og-datatilgang-fra-den-no/)
 
 
-
-### Types of Data in MoBa
-
-An overview of MoBa-data files available to researchers can be viewed [here](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/moba-research-data-files/) 
-
-MoBa integrates multiple complementary data sources:
-
-### 1. Questionnaire Data
-- Collected from mothers, fathers, and children  
-- Covers:
-  - Physical and mental health  
-  - Lifestyle and diet  
-  - Socioeconomic and psychosocial factors  
-- Repeated across time (pregnancy → adulthood)
-
-### 2. Biological Data (Biobank)
-- Blood, urine, cord blood, and other samples  
-- Enables:
-  - Genetic analyses (GWAS)  
-  - Biomarker research  
-  - Omics data (e.g., epigenetics, metabolomics)
- 
-Information about genetic data in MoBa can be viewed [here](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/genetic-data-from-the-norwegian-mother-and-child-cohort-study-mobagenetics/). More information about the dataset, which files are available and how the quality control was performed, is available on the [MoBa Genetics Github site](https://github.com/folkehelseinstituttet/mobagen). 
 
 ### Phenotools
 Phenotools is an R package written by Laurie Hannigan.
@@ -171,6 +139,17 @@ Note that data from the first two versions (A and B) of the diet questionnaire, 
 ### Dates and age
 All date variables in the questionnaires are replaced by variables that correspond with the child’s age in days/months/years. <br><br>
 The generated variable ‘ALDERUTFYLT_Sx’ contains information about when the questionnaire was filled out by the respondent, given by time in days/months/years from the date of birth of the child until filling out the questionnaire. This will correspond to the child’s age in days, months or years. <br>
+
+
+
+### Would you like to contribute with syntax to MoBa's syntax library? 
+
+MoBa Wiki includes a syntax library for variables that may be helpful when analyzing data from MoBa. The aim is to build a more extensive syntax library covering different types of variables based on data from all MoBa questionnaires. 
+
+Please contact [MorBarnData@fhi.no](mailto:MorBarnData@fhi.no) if you have syntax on how to generate variables based on data from MoBa that you think might be helpful to other research projects. 
+
+**All syntax published on the MoBa Wiki page is checked by MoBa, but MoBa is not responsible for any errors in the study results that are caused by errors in syntax.** 
+
 
 
 
