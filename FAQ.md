@@ -1,6 +1,5 @@
 # Frequently asked questions
 
-
 ## I have just received files from MoBa, where do I start?
 By reading [this very important information](Read%20this%20before%20analyses.md).
 ##
